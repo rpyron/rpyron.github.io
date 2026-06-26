@@ -16,6 +16,12 @@ Alex is the Robert F. Griggs Professor of Biology at GW, and a Research Associat
 
 Max is a salamander systematics studying phylogeography and speciation genomics in plethodontid salamanders. His dissertation focuses on lineage divergence in *Desmognathus* and the *Plethodon glutinosus* complex, with a museum-based taxonomic component focused on natural-history collections.
 
+### Daniel Biggs, PhD student
+
+<img src="/images/people/daniel-biggs.png" alt="Daniel Biggs" style="width:180px;height:auto;">
+
+Daniel is co-advised with the [Center for the Advanced Study of Hominid Paleobiology](https://cashp.columbian.gwu.edu/) and Bernard Wood. He studies the phylogeny of early hominids.
+
 ### You
 
 Join us for a variety of projects ranging from salamander speciation to environmental ethics. The Weintraub Program at GW partners with the Smithsonian NMNH for world-class training in evolutionary biology.
