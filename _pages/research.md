@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-![Research](/images/squarespace/RAP2271_5.jpg)
+<img src="/images/squarespace/tania.jpg" alt="Research field scene" style="width:100%;max-height:220px;object-fit:cover;object-position:center;display:block;margin-bottom:1.5rem;">
 
 ## Amphibian and Reptile Biodiversity
 

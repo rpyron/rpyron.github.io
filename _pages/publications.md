@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-![Desmognathus](/images/squarespace/Desmognathus_ocoee_A_RAP0890_4.jpg)
+<img src="/images/squarespace/Desmognathus_ocoee_A_RAP0890_4.jpg" alt="Desmognathus" style="width:100%;max-height:220px;object-fit:cover;object-position:center;display:block;margin-bottom:1.5rem;">
 
 <p><strong>(172)</strong> Colston, T.J., Rosado-Ramos, E.L., Pirro, S., <strong>Pyron, R.A.,</strong> and A.R. Puente-Rolón. 2026. The Complete Genome Sequences of 5 Species of Reptiles Invasive in Puerto Rico. <em>Biodiversity Genomes</em>, April <strong>2026:</strong>1–3. https://doi.org/10.56179/001c.161013.</p>
 

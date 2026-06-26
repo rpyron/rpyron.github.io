@@ -4,7 +4,7 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-![Collaborators](/images/squarespace/Cataloochee_Balsam_2.jpg)
+<img src="/images/squarespace/cat.jpg" alt="Field cat" style="width:100%;max-height:220px;object-fit:cover;object-position:center;display:block;margin-bottom:1.5rem;">
 
 ## [The Kawano Lab - Fins & Limbs at GW](https://sandykawano.weebly.com)
 
@@ -29,4 +29,3 @@ The Beamer Lab are our primary collaborators in salamander phylogeography.
 ## [Arne Mooers (UBC)](https://www.sfu.ca/biology/people/faculty/amooers.html) & [Matt Pennell (USC)](https://mwpennell.ca)
 
 Arne & Matt are key collaborators on several major projects in global biodiversity and environmental ethics.
-
