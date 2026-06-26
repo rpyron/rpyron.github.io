@@ -6,171 +6,346 @@ author_profile: true
 
 ![Desmognathus](/images/squarespace/Desmognathus_ocoee_A_RAP0890_4.jpg)
 
-- **(152)** Kawano, S.M., Martin, J., Medina, J., Doherty, C., Zheng, G., Hsiao, E., Evans, M.J., Huie, J.M., Lima, R., Langan, E.M., de Queiroz, K., **Pyron, R.A.,** Peters, A., and D.J. Irschick. 2024. Applying 3D models of giant salamanders to explore form-function relationships in early tetrapods. *Integrative and Comparative Biology* **in press** icae129.
-- **(151)** Jowers, M.J., Muñoz Pajares, J., Weber, J., Arcke, J., Arenas-Castro, S., Ho, S.Y.W., Rivas, G.A., Murphy, J.C., Borzée, A., **Pyron, R.A.,** Perez-Losada, M., De Freitas, M., Downie, R.J., Moreno-Rueda, G., and S. Sánchez-Ramírez. 2024. Testing molecular date estimates using an ecological and vicariant case study: the Geological-Ecological Molecular Clock. *Journal of Biogeography** in press.** [https://doi.org/10.1111/jbi.14971](https://doi.org/10.1111/jbi.14971)
-- **(150)** Moura, M.R., Ceron, K., Guedes, J.J.M., Sica, Y.V., Catenazzi, A., Werneck, F.P., Toledo, L.F., Hart, J., Upham, N.S., Tonini, J.F.R., Colston, T.J., Bowie, R.C.K., **Pyron, R.A.,** and W. Jetz. 2024. A phylogeny-informed characterization of global tetrapod traits addresses data gaps and biases. *PLoS Biology* **22**(7):e3002658.
- - -preprint [https://doi.org/10.1101/2023.03.04.531098](https://doi.org/10.1101/2023.03.04.531098)
-- **(149)** Bauer, A.M., Denzer, W., Dubois, A., Entiauspe-Neto, O.M., Frétey, T., Ohler, A., and **R.A. Pyron.** 2024. The specimens of green anaconda, *Boa murina* Linnaeus, 1758 (Squamata, Serpentes, Boidae, *Eunectes*), from the collection of Albertus Seba, and recommendations for tracing historical specimens. *Bionomina* **38**:7-29.
-- **(148)** Wilenzik, I.V., Barger, B.B., and **R.A. Pyron.** 2024. Biogeographic analysis suggests Gondwanan origin of extant Squamata during the early Jurassic breakup of Pangaea. *PeerJ** 12**:e17277.
-- **(147)** **Pyron, R.A.,** Pirro, S., Hains, T., Colston, T.J., Myers, E.A., O’Connell, K.A., and D.A. Beamer. 2024. The Draft Genome Sequences of 50 Salamander Species (Caudata, Amphibia). *Biodiversity Genomes,** April**:1-3. https://doi.org/10.56179/001c.116891
-- **(146)** Dubois, A., Denzer, W., Entiauspe-Neto, O., Frétey, T., Ohler, A., Bauer, A.M., and **R.A. Pyron.** 2024. Nomenclatural problems raised by the recent description of a new anaconda species (Squamata, Serpentes, Boidae), with a nomenclatural review of the genus *Eunectes*. *Bionomina* **37**:8-58.
-- **(145)** Title, P.O., Singhal, S., Grundler, M.C., Costa, G.C., **Pyron, R.A.,** Colston, T.J., Grundler, M.R., Prates, I., Stepanova, N., Jones, M.E.H., Cavalcanti, L.B.Q., Colli, G.R., Di-Poï, N., Donnellan, S.C., Moritz, C., Mesquita, D.O., Pianka, E.R., Smith, S.A., Vitt, L.J., and D.L. Rabosky. 2024. The macroevolutionary singularity of snakes. *Science* **383**(6685):918-923.
-- **(144)** Arteaga, A., **Pyron, R.A.,** Hurtado-Gómez, J.P., Batista, A., Vieira, J., Meneses Pelayo, E., Smith, E.N., Barrio Amorós, C.L., Koch, C., Agne, S., Valencia, J.H., and J.M. Guayasamin. 2024. Systematic revision of the Eyelash Palm-Pitviper (*Bothriechis* *schlegelii*), with the description of five new species and revalidation of three. *Evolutionary Systematics* **8**(1):15-64.
-- **(143) Pyron, R.A.,** Kakkera, A., Beamer, D.A., and K.A. O’Connell. 2024. Discerning structure versus speciation in phylogeographic analysis of Seepage Salamanders (*Desmognathus aeneus*) using demography, environment, geography, and phenotype. *Molecular Ecology** 33**(2):e17219.
-- **(142)** LaFrance, B.J., Ray, A.M., Fisher, RN., Campbell Grant, E.H., Shaffer, C., Spear, S.F., Pierson, T.W., Davenport, J.M., Niemiller, M.L., Glorioso, B.M., **Pyron, R.A.,** Beamer, D.A., Barichivich, W.J., Halstead, B.J., Roberts, K., and B.R. Hossack. 2024. A database of amphibian species present in U.S. National Parks. *Nature Scientific Data** 11**:32.
-- **(141)** Dalman, S.G., Loewen, M.A., **Pyron, R.A.,** Jasinski, S.E., Malinzak, D.E., Lucas, S.G., Fiorillo, A.R., Currie, P.J., and N.R. Longrich. 2023. A giant tyrannosaur from the Campanian-Maastrichtian of southern North America and the evolution of tyrannosaurid gigantism. *Nature Scientific Reports** 13**:22124.
-- **(140)** **Pyron, R.A.** 2023. Book Reviews: Salamanders & Newts of the World (J. Raffaëlli, 2022; Penclen). *Herpetological Review** 54**(4):**in press**.
-- **(139)** Ficarrotta, V.M., Martin, A., Counterman, B.A., and **R.A. Pyron.** 2023. Early origin and diverse phenotypic implementation of iridescent UV patterns for sexual signaling in pierid butterflies. *Evolution** 77**(12):2619-2630.
-- **(138) Pyron, R.A.** 2023. Unsupervised machine learning for species delimitation, integrative taxonomy, and biodiversity conservation. *Molecular Phylogenetics and Evolution****189**:107939.
-- **(137)** Shaw, C.G., Pavloudi, C., Barela Hudgell, M.A., Crow, R.S., Saw, J.H., **Pyron, R.A.,** and L.C. Smith. 2023. Bald sea urchin disease shifts the surface microbiome on purple sea urchins in an aquarium. *Pathogens and Disease** 81**:ftad025.
-- **(136)** Benevides de Miranda, R., Brandão, R.A., O'Connell, K.A., Colli, G.R., Tonini, J.F.R., and **R.A. Pyron.** 2023. Multilocus environmental adaptation and population structure in populations of the Cerrado gecko *Gymnodactylus amarali* (Sauria, Phyllodactylidae) from Serra da Mesa Hydroelectric Plant, Central Brazil. *Frontiers in Ecology and Evolution* **11**:980777.
-- **(135) Pyron, R.A.,** and D.A. Beamer. 2023. Systematic revision of the Spotted and Northern Dusky Salamanders (Plethodontidae: *Desmognathus conanti* and *D. fuscus*), with six new species from the eastern United States. *Zootaxa** 5311**(4):451–504.
-- **(134)** **Pyron, R.A.,** and D.A. Beamer. 2023. *Desmognathus marmoratus*: Geographic Distribution. *Herpetological Review* **54**(1):67*.*
-- **(133)** **Pyron, R.A.,** and D.A. Beamer. 2023. A systematic revision of the Shovel-nosed Salamander (Plethodontidae: *Desmognathus marmoratus*), with re-description of the related *D. aureatus* and *D. intermedius*. *Zootaxa* **5270**(2):262-280.
-- **(132)** Ray, J.M., Sánchez-Martínez, P., Batista, A., Mulcahy, D.G., Sheehy, C.M. III, Smith, E.N., **Pyron, R.A.,** and A. Arteaga. 2023. ﻿A new species of *Dipsas* (Serpentes, Dipsadidae) from central Panama. *ZooKeys* **1145**:131-167.
-- **(131)** **Pyron, R.A.,** Duncan, S.C., Burbrink, F.T., O’Connell, K.A., and D.A. Beamer. 2022 Speciation hypotheses from phylogeographic delimitation yield an integrative taxonomy for Seal Salamanders (*Desmognathus monticola*). *Systematic Biology* **in press** 10.1093/sysbio/syac065.
-- **(130) Pyron, R.A.,** and D.A. Beamer. 2022. Systematics of the Ocoee Salamander (Plethodontidae: *Desmognathus ocoee*), with description of two new species from the southern Blue Ridge Mountains.* Zootaxa* **5190**(2):207–240.
-- **(129) Pyron, R.A.,** and D.A. Beamer. 2022. Allocation of *Salamandra auriculata* Holbrook, 1838 with description of a new species of *Desmognathus* (Plethodontidae) from the Atlantic Coastal Plain.* Zootaxa* **5188**(6):587-595.
-- **(128) Pyron, R.A.,** and M.W. Pennell.2022. Macroevolutionary perspectives on Anthropocene extinction. *Biological Conservation** 274**:109733.
-- **(127)** Dubois, A., **Pyron, R.A.,** and D.A. Beamer. 2022. The taxonomic and nomenclatural status of the nomina *Salamandra fusca* Green, 1818 and *Salamandra quadramaculata* Holbrook, 1840 (Amphibia, Urodela). *Bionomina* **27**(1):44-57.
-- **(126) Pyron, R.A.,** and D.A. Beamer. 2022. Nomenclatural solutions for diagnosing ‘cryptic’ species using molecular and morphological data facilitate a taxonomic revision of the Black-bellied Salamanders (Urodela: *Desmognathus*‘*quadramaculatus*’) from the southern Appalachian Mountains.* Bionomina* **27**(1):1-43.
-- **(125)** Burbrink, F.T., Crother, B.I., Murray, C.M., Smith, B.T., Ruane, S., Myers, E.A., and **R.A. Pyron.** 2022. [Empirical and philosophical problems with the subspecies rank](https://onlinelibrary.wiley.com/doi/10.1002/ece3.9069). *Ecology and Evolution** 12**(7):e9069.***
- - -preprint: https://doi.org/10.22541/au.164847286.69025170/v1
-- **(124) Pyron, R.A.,** Cyriac, V.P., Ganesh, S.R., Mallik, A.K., de Silva, A., Srikanthan, A.N., and K. Shanker. 2022. First report of hemipenial variation among some genera and species of Shieldtail snakes (Serpentes: Uropeltidae). *Ichthyology & Herpetology** 110**(2):299-314.
-- **(123) Pyron, R.A.,** and A.Ø. Mooers. 2022. The normative postulate problem: hidden ethics in ecology, evolution, and conservation. *Biological Conservation** 270**:109584.
-- **(122) Pyron, R.A.,** and D.A. Beamer. 2022. A nomenclatural and taxonomic review of the salamanders (Caudata) from Holbrook’s *North American Herpetology. Zootaxa* **5134**(2):151-196.
-- **(121) Pyron, R.A.,** O’Connell, K.A., Lamb, J.Y., and D.A. Beamer. 2022. A new, narrowly endemic species of swamp-dwelling dusky salamander (Plethodontidae: *Desmognathus*) from the Gulf Coastal Plain of Mississippi and Alabama. *Zootaxa* **5133**(1):53-82.
-- **(120) Pyron, R.A.,** Beamer, D.A., Holzheuser, C.R., Lemmon, E.M., Lemmon, A.R., Wynn, A.H., and K.A. O’Connell. 2022. Contextualizing enigmatic extinctions using genomic DNA from fluid-preserved museum specimens of *Desmognathus* salamanders. *Conservation Genetics** 23**:375-386.
- - -preprint: https://doi.org/10.21203/rs.3.rs-769753/v1
-- **(119)** **Pyron, R.A.,** O’Connell, K.A., Lemmon, E.M., Lemmon, A.R., and D.A. Beamer. 2022. Candidate-species delimitation in *Desmognathus* salamanders reveals gene flow across lineage boundaries, confounding phylogenetic estimation and clarifying hybrid zones. *Ecology and Evolution** 12**(2):e8574.
-- **(118) Pyron, R.A.,** Gotte, S., and F.T. Burbrink. 2021. Additional Comments on the Types and Nomina of Several North American Ratsnakes (*Pantherophis obsoletus* complex). *Bionomina** 25**:70-75.
-- **(117)** Greenberg, D.A., **Pyron, R.A.,** Johnson, L.G.W., Upham, N.S., Jetz, W., and A.Ø. Mooers. 2021. Evolutionary legacies in contemporary Tetrapod imperilment. *Ecology Letters** 24**(11):2464-2476.
-- **(116)** Burbrink, F.T., **Pyron, R.A.,** Gehara, M., McKelvy, A.D., and E.A. Myers. 2021. The corrected taxonomic history of the North American ratsnakes (*Pantherophis obsoletus* complex). *Herpetological Review** 52**(3):537-547.
-- **(115)** García-Rodríguez, A., Martínez, P.A., Oliveira, B.F., **Pyron, R.A.,** and G.C. Costa. 2021. Amphibian speciation rates support a general role of mountains as biodiversity pumps. *The American Naturalist** 198**(3):E68-E79.
-- **(114)** Dubois, A., Ohler, A., and **R.A. Pyron.** 2021. New concepts and methods for phylogenetic taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of recent amphibians (Lissamphibia): corrigenda and addenda. *Megataxa** 06**(1):73-76.
-- **(113)** Simões, T.R., and **R.A. Pyron.** 2021. The Squamate Tree of Life. *Bulletin of the Museum of Comparative Zoology** 163**(2):47-95*.*
-- **(112)** Singhal, S., Colston, T.J., Grundler, M.R., Smith, S.A., Costa, G.C., Colli, G.R., Moritz, C. **Pyron, R.A.,** and D.L. Rabosky. 2021. Congruence and conflict in the higher-level phylogenetics of squamate reptiles: an expanded phylogenomic perspective. *Systematic Biology* **70**(3):542-557.
-- **(111)** Dubois, A., Ohler, A., and **R.A. Pyron.** 2021. New concepts and methods for phylogenetic taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of recent amphibians (Lissamphibia). *Megataxa** 05**(1):1-738.
-- **(110)** Longrich, N.R., Pereda-Suberbiola, X., **Pyron, R.A.,** and N.-E. Jalil. 2021. The first duckbill dinosaur (Hadrosauridae: Lambeosaurinae) from Africa and the role of oceanic dispersal in dinosaur biogeography. *Cretaceous Research** 120**:104678.
-- **(109)** Hime, P.M., Lemmon, A.R., Lemmon, E.C.M., Prendini, E., Brown, J.M., Thomson, R.C., Kratovil, J.D., Noonan, B.P., **Pyron, R.A.,** Peloso, P.L.V., Kortyna, M.L., Keogh, J.S., Donnellan, S.C., Mueller, R.L., Raxworthy, C.J., Kunte, K., Ron, S., Das, S., Gaitonde, N., Green, D.M., Labisko, J., Che, J., and D.W. Weisrock. 2021. Phylogenomics reveals ancient gene tree discordance in the Amphibian Tree of Life. *Systematic Biology** 70**(1):49-66.
-- ***
-- **(108) Pyron, R.A.,** and D.A. Beamer. 2020. The herpetological legacy of Jacob Green and the nomenclature of some North American salamanders and lizards. *Zootaxa* **4838**(2):221-247.
-- **(107)** Tonini, J.F.R., Ferreira, R.B., and **R.A. Pyron.** 2020. Specialized breeding in plants affects diversification trajectories in Neotropical frogs. *Evolution** 74**(8):1815-1825.
-- **(106)** Colston, T.J., Kulkarni, P., Jetz., W., and **R.A. Pyron.** 2020. Phylogenetic and spatial distribution of evolutionary isolation and threat in turtles and crocodilians (non-avian archosauromorphs). *BMC Evolutionary Biology* **20**:81.
- - -preprint: https://doi.org/10.1101/607796
-- **(105)** Colston, T.J., Noonan, B.P., Smith, M.L., and **R.A. Pyron.** 2020.***Availability of recently described *Ptychadena* (Anura: Ptychadenidae) nomina from Ethiopia. *Zootaxa** 4786**(2): 289-294.
-- **(104)** Colston, T.J.,** Pyron, R.A.,** and A.M. Bauer. 2020. A new species of African Snake Eyed Skink (Scincidae: *Panaspis*) from Ethiopia. *Zootaxa** 4779**(2): 190-200.
-- **(103)** Aldridge, R.D., Siegel, D.S., Goldberg, S.R., and **R.A. Pyron.** 2020. Seasonal timing of spermatogenesis and mating in squamates: a reinterpretation. *Copeia* **108**(2):231-264.
-- ***
-- **(102)** Tonini, J.F.R., Provete, D.B., Maciel, N., de Morais, A.R., Goutte, S., Toledo, L.F., and **R.A. Pyron.** 2020. Allometric escape from acoustic constraints is rare for frog calls. *Ecology and Evolution** 10**(8):3686-3695.
-- **(101)** Burbrink, F.T., Grazziotin, F.G., **Pyron, R.A.,** Cundall, D., Donellan, S., Irish, F., Keogh, J.S., Kraus, F., Murphy, R.W., Noonan, B.P., Ruane, S., Raxworthy, C.J., Lemmon, A.R., Lemmon, E.M., and H. Zaher. 2020. Interrogating genomic-scale data for Squamata (lizards, snakes, and amphisbaenians) shows no support for key traditional morphological relationships. *Systematic Biology** 69**(3):502-520.
-- **(100)** Rajabizadeh, M., **Pyron, R.A.,** Nazarov, R., Poyarkov, N.A., Adriaens, D., and A. Herrel. 2020. Additions to the phylogeny of colubrine snakes in Southwestern Asia, with description of a new genus and species (Serpentes: Colubridae: Colubrinae). *PeerJ* **8:**e9016.
-- **(99) Pyron, R.A.,** Lemmon, E.M., Lemmon, A.R., and D.A. Beamer. 2020. Phylogenomic data reveal reticulation and incongruence among mitochondrial candidate species in Dusky Salamanders (*Desmognathus*). *Molecular Phylogenetics and Evolution** 146**:106751.
-- ***
-- **(98) Pyron, R.A.,** R.N. Reed, Colston, T.J., and M.R. Rochford. 2019. Morphology and molecular data reveal invasion of Cryptic Golden Tegus (*Tupinambis cryptus* Murphy et al., 2016) in Florida. *BioInvasions Records* **8**(2):465-470.
-- **(97)** Hernández-Ordóñez, O., Santos, B., **Pyron, R.A.,** Arroyo-Rodríguez, V., Urbina-Cardona, J., Martínez-Ramos, M., Parra-Olea, G., and V.H. Reynoso. 2019. Species sorting and mass effect along forest succession: Evidence from taxonomic, functional, and phylogenetic diversity of amphibian communities. *Ecology and Evolution* **9**(9):5206-5218.
-- ***
-- **(96)** González-del-Pliego, P., Freckleton, R.P., Edwards, D.P., Koo, M.S., Scheffers, B.R., **Pyron, R.A.,** and W. Jetz. 2019. Phylogenetic and trait-based prediction of threat status for data-deficient amphibians. *Current Biology** 29**:1557-1563.
-- ***
-- **(95)** Vijayakumar, S.P., **Pyron, R.A.,** Dinesh, K.P., Torsekar, V.R., Srikanthan, A.N., Swamy, P., Stanley, E.L., Blackburn, D.C., and K. Shanker. 2019. A new ancient lineage of frog (Anura: Nyctibatrachidae: Astrobatrachinae subfam. nov.) endemic to the Western Ghats of Peninsular India. *PeerJ** 7**:e6457.
-- ***
-- **(94) Pyron, R.A.,** and R. Somaweera. 2019. Further notes on the Sri Lankan uropeltid snakes *Rhinophis saffragamus*(Kelaart, 1853) and *Uropeltis ruhunae* Deraniyagala, 1954. *Zootaxa****4560**(3):592–600.
-- ***
-- **(93)** Sayyed, A., **Pyron, R.A.,** and R. Dileepkumar. 2018. Four new species of the genus *Cnemaspis* Strauch, 1887 (Sauria: Gekkonidae) from the northern Western Ghats, India. *Amphibian & Reptile Conservation** 12**(2) [General Section]:1-29(e157).
-- **(92)** Arteaga, A., Salazar-Venezuela, D., Mebert, K., Peñafiel, N., Aguiar, G., Sánchez-Nivicela, J.C., **Pyron, R.A.,** Colston, T.J., Cisneros-Heredia, D.F., Yánez-Muñoz, M.H., Venegas, P.J., Guayasamin, J.M., and O. Torres-Carvajal. 2018. Systematics of snail eating snakes (Serpentes, Dipsadini), with the description of five new species from Ecuador and Peru. *ZooKeys** 76**:79-147.
-- ***
-- **(91) Pyron, R.A.** 2018. A 21st-century vision for neotropical snake systematics. *Revista Latinoamericana Herpetologia* **1**(1):57-62.
-- **(90) Pyron, R.A.** 2018. Global amphibian declines have winners and losers. *Proceedings of the National Academy of Sciences* USA **115**(15):3739-3741.
-- **(89)** Jetz, W., and **R.A. Pyron.** 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. *Nature Ecology & Evolution** 2**(2018): 850-858.
-- **(88)** Guedes, T.B., Sawaya, R.J., Zizka, A., Laffan, S., Faurby, S., **Pyron, R.A.,** Bérnils, R.S., Jansen, M., Passos, P., Prudente, A.L.C., Cisneros-Heredia, D.F., Braz, H.B., Nogueira, C. de C., and A. Antonelli. 2018. Patterns, biases, and prospects in the distribution and diversity of Neotropical snakes. *Global Ecology and Biogeography* **27**(1):14-21.
-- ***
-- **(87)** Wickramasinghe, L.J.M., Vidanapathirana, D.R., Kandambi, H.K.D., **Pyron, R.A.,** and N. Wickramasinghe. 2017. A new species of *Aspidura* (Serpentes: Natricinae) from Sri Pada sanctuary (Peak Wilderness), Sri Lanka. *Zootaxa* **4347**(2):275-292.
-- ***
-- **(86)** Tucker, D.B., Hedges, S.B., Colli, G.R., **Pyron, R.A.,** and J.W. Sites, Jr. 2017. Genomic timetree and historical biogeography of Caribbean island *Ameiva* lizards (*Pholidoscelis*: Teiidae). *Ecology and Evolution** 2017**(7):7080-7090.
-- **(85)** Guayasamin, J.M., Hutter, C.R., Tapia, E.E., Culebras, J., Peñafiel, N., **Pyron, R.A.,** Morochz, C., Funk, W.C., and A.F. Arteaga-Navarro. 2017. Diversification of the rainfrog *Pristimantis ornatissimus* in the lowlands and Andean foothills of Ecuador. *PLoS One* **12**(3:e0172615):1–21.
-- **(84)** Chen, X., Lemmon, A.R., Lemmon, E.M., **Pyron, R.A.**, and F.T. Burbrink. 2017. Using phylogenomics to understand the link between biogeographic origins and regional diversification in ratsnakes. *Molecular Phylogenetics and Evolution** 111**(2017):206-218.***
-- ***
-- **(83) Pyron, R.A.,** and M. Laurin. 2017. Editorial: Dating the Tree of Life. *Frontiers in Evolutionary and Population Genetics** 5**:42.
-- **(82) Pyron, R.A.** 2017. Comment (Case 3688) — On the proposed suppression of Charinidae Gray, 1849 (Reptilia, Squamata, Serpentes): a counter-application. *Bulletin of Zoological Nomenclature* **73**(2–4):124-126.
-- ***
-- **(81) Pyron, R.A.** 2017. Novel approaches for phylogenetic inference from morphological data and total-evidence dating in squamate reptiles (lizards, snakes, and amphisbaenians). *Systematic Biology* **66**(1):38-86.
-- **(80)** Sayyed, A., **Pyron, R.A.,** and N. Dahanukar. 2016. *Cnemaspis flaviventralis,* a new species of day gecko (Squamata: Gekkonidae) from the Western Ghats of Maharashtra, India. *Journal of Threatened Taxa* **8**(14):9616-9629.
-- **(79) Pyron, R.A.,** Ganesh, S.R., Sharma, V., Sayyed, A., Wallach, V., and R. Somaweera. 2016. A catalogue and systematic overview of the shield-tailed snakes (Serpentes: Uropeltidae). *Zoosystema** 38**(4):453-506.
-- **(78)** Tonini, J.F.R., Beard, K.H., Barbosa, R.F., Jetz, W., and **R.A. Pyron.** 2016. Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. *Biological Conservation* **204**(A):23-31.
-- **(77)** Ceriaco, L.M.P., Gutierrez, E.E., Dubois, A., & 490 additional authors listed in alphabetical order, including **Pyron, R.A.** 2016. Photography-based taxonomy is inadequate, unnecessary, and potentially harmful for biological sciences. *Zootaxa* **4196**(3):435-445
-- **(76) Pyron, R.A.,** Arteaga, A., Echevarria, L.Y., and O. Torres-Carvajal. 2016. A revision and key for the tribe Diaphorolepidini (Serpentes: Dipsadidae) and checklist for the genus *Synophis*. *Zootaxa* **4171**(2):293-320.
-- **(75)** Murphy, J.C., Jowers, M.J., Lehtinen, R.M., Charles, S., Colli, G.R., Peres Jr., A., Hendry, C.R., and **R.A. Pyron.** 2016. Cryptic, sympatric diversity in tegu lizards of the *Tupinambis teguixin* group (Squamata, Sauria, Teiidae) and the description of three new species. *PLoS ONE* **11**(8):e0158542.
-- **(74)** Tucker, D.B., Colli, G.R., Giugliano, L.G., Hedges, S.B., Hendry, C.R., Lemmon, E.M., Lemmon, A.R., Sites, J.W. Jr., and **R.A. Pyron**. 2016. Methodological congruence in phylogenomic analyses with morphological support for teiid lizards (Sauria: Teiidae). *Molecular Phylogenetics and Evolution** 103**(2016):75-84.
-- **(73) Pyron, R.A.,** Hsieh, F.W., Lemmon, A.R., Lemmon, E.M., and C.R. Hendry. 2016. Integrating phylogenomic and morphological data to assess candidate species-delimitation models in Brown and Red-bellied snakes (*Storeria*). *Zoological Journal of the Linnaean Society** 177**(4):937-949.
-- **(72) Pyron, R.A.** 2016. Niche Evolution. *In* Oxford Bibliographies in Evolutionary Biology (J. B. Losos, *ed.*). Oxford University Press, Oxford, UK. DOI:10.1093/OBO/9780199941728-0075.
-- **(71)** Arteaga, A.F., **Pyron, R.A.,** Peñafiel, N., Culebras, J., Bustamante, L., Yánez-Muñoz, M.H., and J.M. Guayasamin. 2016. Comparative phylogeography reveals cryptic diversity and repeated patterns of cladogenesis for amphibians and reptiles in northwestern Ecuador. *PLoS ONE* **11**(4):e0151746.
-- **(70)** Feldman, A., **Pyron, R.A.,** Sabath, N., Mayrose, I., and S. Meiri. 2016. Body sizes and diversification rates of lizards, snakes, amphisbaenians and the tuatara. *Global Ecology and Biogeography* **25**(2):187-197.
-- **(69)** Burbrink, F.T., **Pyron, R.A.,** McKelvy, A.D., and E.A. Myers. 2015. Predicting community structure in snakes on Eastern Nearctic islands using ecological neutral theory and phylogenetic methods. *Proceedings of the Royal Society B, Biological Sciences* **282**(1819):20151700.
-- **(68) Pyron, R.A.,** Guayasamin, J.M., Peñafiel, N., Bustamante, L., and A. Arteaga. 2015. Systematics of Nothopsini (Serpentes: Dipsadidae), with a new species of *Synophis* from the Pacific Andean slopes of southwestern Ecuador. *Zookeys* **541:**109-147.
-- **(67) Pyron, R.A.,** Costa, G.C., Patten, M.A., and F.T. Burbrink. 2015. Phylogenetic niche conservatism and the evolutionary basis of ecological speciation. *Biological Reviews** 90**(4):1248-1262.
-- **(66)** Guayasamin, J.M., Rivera-Correa, M., Arteaga, A., Culebras, J., Bustamante, L., **Pyron, R.A.,** Peñafiel, N., Morochz, C., and C.R. Hutter. 2015. Molecular phylogeny of stream treefrogs (Hylidae: *Hyloscirtus bogotensis* Group), with a new species from the Andes of Ecuador. *Neotropical Biodiversity* **1**(1):2-21.
-- **(65) Pyron, R.A.** 2015. Advancing perspectives on parity-mode evolution. *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution* **324**(6):562-563.
-- **(64) Pyron, R.A.,** and F.T. Burbrink. 2015. Contrasting models of parity-mode evolution in squamate reptiles. *Journal of Experimental Zoology Part B: Molecular and Developmental Evolution** 324**(6):467-472.
-- **(63) Pyron, R.A.** 2015. Post-molecular systematics and the future of phylogenetics. *Trends in Ecology and Evolution* **30**(7):384-389.
-- **(62)** Fry, B.G, Sunagar, K., Casewell, N., Kochva, E., Scheib, H., Wuster, W., Vidal, N., Young, B., Burbrink, F.T., **Pyron, R.A.**, Vonk, F.J., Roelants, K., and T.N.W. Jackson. 2015. The origin and evolution of the Toxicofera reptile venom system. Chapter 1 *in* Venomous Reptiles And Their Toxins: Evolution, Pathophysiology And Biodiscovery (B.G. Fry, ed.). Oxford University Press, Oxford. 576p.
-- **(61)** Betancur-R, R., Orti, G., and** R.A. Pyron.** 2015. Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. *Ecology Letters** 18**(5):441-450.
-- **(60)** Longrich, N.R., Vinther, J., **Pyron, R.A.,** Pisani, D., and J.A. Gauthier. 2015. Biogeography of worm lizards (Amphisbaenia) driven by end-Cretaceous mass extinction. *Proceedings of the Royal Society B, Biological Sciences* **282**(1806):20143034.
-- **(59)** Arcila, D.K., **Pyron, R.A.,** Tyler, J.C., Orti, G., and R. Betancur-R. 2015. An evaluation of fossil tip-dating versus node-age calibrations in tetraodontiform fishes (Teleostei: Percomorphaceae). *Molecular Phylogenetics and Evolution** 82**(A):131-145.
-- **(58)** Ohler, A., Amarasinghe, A.A.T., Andreone, F., Bauer, A., Borkin, L., Channing, A., Chuankern, Y., Das, I., Deuti, K., Fretey, T., Matsui, M., **Pyron, R.A.,** Rodel, M.O., Segniagbeto, G.H., Vasudevan, K., and A. Dubois. 2014. DICROGLOSSIDAE Dubois, 1987 (Amphibia, Anura): proposed conservation. *Bulletin of Zoological Nomenclature* **71**(4):244-249**.**
-- **(57)** Guo, P., Zhu, F., Liu, Q., Zhang, L., Li, J. X., Huang, Y. Y., and **R.A. Pyron.** 2014. A taxonomic revision of the Asian keelback snakes, genus *Amphiesma* (Serpentes: Colubridae: Natricinae), with description of a new species. *Zootaxa* **3873**(4):425-440.
-- **(56) Pyron, R.A.,** Hendry, C.R., Chou, V.M., Lemmon, E.M., Lemmon, A.R., and F.T. Burbrink. 2014. Effectiveness of phylogenomic data and coalescent species-tree methods for resolving difficult nodes in the phylogeny of advanced snakes (Serpentes: Caenophidia). *Molecular Phylogenetics and Evolution* **81**(1)**:**221-231**.**
-- **(55)** Fenker, J., Tedeschi, L.G., **Pyron, R.A.**, and C. Nogueira. 2014. Phylogenetic diversity, habitat loss and conservation priorities in South American pitvipers (Crotalinae: *Bothrops* and *Bothrocophias*). *Diversity and Distributions* **20**(10):1108-1119.
-- **(54) Pyron, R.A.** 2014. Temperate extinction in squamate reptiles and the roots of latitudinal diversity gradients. *Global Ecology and Biogeography* **23**(10):1126-1134.
-- **(53) Pyron, R.A.** 2014. Biogeographic analysis of amphibians reveals both ancient continental vicariance and recent oceanic dispersal. *Systematic Biology* **63**(5):779-797.
-- **(52) Pyron, R.A.,** Reynolds, R.G., and F.T. Burbrink. 2014. A taxonomic revision of boas (Serpentes, Boidae). *Zootaxa* **3846**(2):249-260.
-- **(51) Pyron, R.A.,** and V. Wallach. 2014. Systematics of the blindsnakes (Serpentes: Scolecophidia: Typhlopoidea) based on molecular and morphological evidence. *Zootaxa* **3829**(1):1-81.
-- **(50) Pyron, R.A.,** and F.T. Burbrink. 2014. Ecological and evolutionary determinants of species richness and phylogenetic diversity for island snakes. *Global Ecology and Biogeography* **23**(8):848-856**.**
-- **(49)** Hendry, C.R., Guiher, T.J., and **R.A. Pyron.** 2014. Ecological differentiation and sexual selection drives sexual size-dimorphism in New World pitvipers (Crotalinae). *Journal of Evolutionary Biology* **27**(4):760-771**.**
-- **(48)** Ruane, S., Bryson, R.W. Jr., **Pyron, R.A.,** and F.T. Burbrink. 2014. Coalescent species delimitation in Milksnakes (genus *Lampropeltis*) and impacts on phylogenetic comparative analyses. *Systematic Biology** 63**(2):231-250.
-- **(47)** Cooper, W.E. Jr., **Pyron, R.A.**, and T.J. Garland Jr. 2014. Island tameness: living on islands reduces flight initiation distance. *Proceedings of the Royal Society B, Biological Sciences** 281**(1777):20133019.
-- **(46) Pyron, R.A.,** and F.T. Burbrink. 2014. Early origin of viviparity and multiple reversions to oviparity in squamate reptiles. *Ecology Letters* **17**(1):13-21.
-- **(45) Pyron, R.A.,** and F.T. Burbrink. 2013. Phylogenetic estimates of speciation and extinction rate for testing ecological and evolutionary hypotheses. *Trends in Ecology and Evolution* **28**(12):729-736.
-- **(44) Pyron, R.A.,** and J.J. Wiens. 2013. Large-scale phylogenetic analyses reveal the causes of high tropical amphibian diversity. *Proceedings of the Royal Society B, Biological Sciences* **280**(1770):20131622.
-- **(43)** Guo, P., Liu, Q., Zhang, L., Li, C., **Pyron, R.A.,** Jiang, K., and F.T. Burbrink. 2013. *Lycodon* and *Dinodon*: one genus or two? Evidence from molecular phylogenetics and morphological comparisons. *Molecular Phylogenetics and Evolution* **68**(1):144-149**.**
-- **(42) Pyron, R.A.,** Burbrink, F.T., and J.J. Wiens. 2013. A phylogeny and updated classification of Squamata, including 4161 species of lizards and snakes. *BMC Evolutionary Biology* **13**:93.
-- **(41)** Abraham, R.K., **Pyron, R.A.,** Zachariah, A., Ansil, B.R., and A. Zachariah. 2013. Two new genera and one new species of treefrog (Anura: Rhacophoridae) highlight cryptic diversity in the Western Ghats of India. *Zootaxa* **3640**(2):177-199**.**
-- **(40)** Garda, A.A., Wiederhecker, H.C., Gainsbury, A.M., Costa, G.C., **Pyron, R.A.**, Vieira, G.H.C., Werneck, F.P., and G.R. Colli. 2013. Microhabitat variation explains local-scale distribution of terrestrial Amazonian lizards in Rondônia, western Brazil. *Biotropica* **45**(2):245-252.
-- **(39) Pyron, R.A.,** Kandambi, H.K.D., Hendry, C.R., Pushpamal, V., Burbrink, F.T., and R. Somaweera. 2013. Genus-level molecular phylogeny of snakes reveals the origins of species richness in Sri Lanka. *Molecular Phylogenetics and Evolution* **66**(3):969-975.
-- **(38)** Chen, X., Huang, S., Guo, P., Colli, G.R., Montes de Oca, A.N., Vitt, L.J., **Pyron, R.A.,** and F.T. Burbrink. 2013. Understanding the formation of ancient intertropical disjunct distributions using Asian and Neotropical hinged-teeth snakes (*Sibynophis* and *Scaphiodontophis*: Serpentes: Colubridae). *Molecular Phylogenetics and Evolution* **66**(1):254-261.
-- **(37)** Evans, B.J., **Pyron, R.A.,** and J.J. Wiens. 2012. Polyploidization and sex chromosome evolution in amphibians. Ch. 18, pp. 385-410 In: Polyploidy and Genome Evolution. Soltis, D.E. and Soltis, P.S. (eds.): Springer-Verlag, Berlin.
-- **(36)** Burbrink, F.T., Chen, X., Myers, E.A., Brandley, M.C., and **R.A. Pyron.** 2012. Evidence for determinism in species diversification and contingency in phenotypic evolution during adaptive radiation. *Proceedings of the Royal Society B, Biological Sciences* **279**(1478):4817-4826.
-- **(35)** Gomez-Mestre, I., **R.A. Pyron**, and J.J. Wiens. 2012. Phylogenetic analyses reveal unexpected patterns in the evolution of reproductive modes in frogs. *Evolution** 66**(12):3687-3700.
-- **(34)** **Pyron, R.A.** 2012. Book Reviews: Reptilian Cytogenetics and Genomics (E. Olmo, ed.). *Copeia** 2012**(3):586-587.
-- **(33)** Betancur-R., R., Orti, G., Stein, A.M., Marceniuk, A.P., and **R.A. Pyron.** 2012.***Apparent signal of competition limiting diversification after ecological transitions from marine to freshwater habitats. *Ecology Letters* **15**:822-830**.**
-- **(32)** Crother, B.I., Boundy, J., Burbrink, F.T., Campbell, J.A., and **R.A. Pyron**. 2012. Squamata – Snakes. IN B. I. Crother (ed.), Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico, With Comments Regarding Confidence In Our Understanding pp. 52-72. SSAR Herpetological Circular 39:1-92.
-- **(31)** Guo, P., Liu, Q., Xu, Y., Jiang, K., Hou, M., Ding, L., **Pyron, R.A.**,***and F.T. Burbrink. 2012. Out of Asia: natricine snakes support the Cenozoic Beringian Dispersal Hypothesis. *Molecular Phylogenetics and Evolution* **63**(3):825-833.
-- **(30)** Burbrink, F.T., and **R. A. Pyron.** 2012. Correction for Burbrink and Pyron (2011). *Evolution* **66**(3):942-943.
-- **(29) Pyron, R.A.,** and F.T. Burbrink. 2012. Trait-dependent diversification and the impact of paleontological data on evolutionary hypothesis testing in New World ratsnakes (tribe Lampropeltini). *Journal of Evolutionary Biology* **25**(3):497-508.
-- **(28)** Burbrink, F.T., Ruane, S., and **R.A. Pyron.** 2012. When are adaptive radiations replicated in areas? Ecological opportunity and unexceptional diversification in West Indian dipsadine snakes (Colubridae: Alsophiini). *Journal of Biogeography* **39**(3):465-475.
-- **(27) Pyron, R.A.**, and F.T. Burbrink. 2012. Extinction, ecological opportunity, and the origins of global snake diversity. *Evolution* **66**(1):163-178.
-- **(26) Pyron, R. A.,** and J. J. Wiens. 2011. A large-scale phylogeny of Amphibia with over 2,800 species, and a revised classification of extant frogs, salamanders, and caecilians. *Molecular Phylogenetics and Evolution* **61**(2):543-583.
-- **(25)** Wiens, J.J., **R.A. Pyron**, and D.S. Moen. 2011. Phylogenetic origins of local-scale diversity patterns and the causes of Amazonian megadiversity. *Ecology Letters** 14**(7):643-652.****
-- **(24)** Burbrink, F.T., and **R.A. Pyron**. 2011. The impact of gene-tree/species-tree discordance on diversification rate estimation. *Evolution** 65**(7):1851-1861.
-- **(23)** **Pyron, R.A.** 2011. Divergence time estimation using fossils as terminal taxa and the origins of Lissamphibia. *Systematic Biology** 60**(4):466-481.
-- **(22)** Ruane, S., **Pyron, R.A.**, and F.T. Burbrink. 2011. Phylogenetic relationships of the Cretaceous frog *Beelzebufo* from Madagascar and the placement of fossil constraints based on temporal and phylogenetic evidence. *Journal of Evolutionary Biology* **24**(2):274-285.
-- **(21)** **Pyron, R.A.**, Burbrink, F.T., Colli, G.R., Montes de Oca, A.N., Vitt, L.J., Kuczynski, C.A., and J.J. Wiens. 2011. The phylogeny of advanced snakes (Colubroidea), with discovery of a new subfamily and comparison of support methods for likelihood trees. *Molecular Phylogenetics and Evolution* **58**(2):329-342.
-- **(20)** Brandley, M.C., Guiher, T.J., **Pyron, R.A.,** Winne, C.T., and F.T. Burbrink. 2010. Does dispersal across an aquatic geographic barrier obscure phylogeographic structure in the diamond-backed watersnake (*Nerodia rhombifer*)? *Molecular Phylogenetics and Evolution* **57**(2):552-560.
-- **(19)** **Pyron, R.A.,** and F.T. Burbrink. 2010. Hard and soft allopatry: physically and ecologically mediated modes of geographic speciation. *Journal of Biogeography* **37**(10):2005-2015.
-- **(18)** Burbrink, F.T., and **R.A. Pyron**. 2010. How does ecological opportunity influence rates of speciation, extinction, and morphological diversification in New World ratsnakes (tribe Lampropeltini)? *Evolution** 64**(4):934-943.
-- **(17)** **Pyron, R.A.** 2010. A likelihood method for assessing molecular divergence time estimates and the placement of fossil calibrations. *Systematic Biology* **59**(2):185-194.
-- **(16)** **Pyron, R.A.,** and F.T. Burbrink. 2009. Systematics of the Common Kingsnake (*Lampropeltis getula*; Serpentes: Colubridae) and the burden of heritage in taxonomy. *Zootaxa** 2241**:22-32.
-- **(15)** **Pyron, R.A.,** and F.T. Burbrink. 2009. Body size as a primary determinant of ecomorphological diversification and the evolution of mimicry in the lampropeltinine snakes. *Journal of Evolutionary Biology** 22**(10):2057-2067.
-- **(14)** **Pyron, R.A.,** and F.T. Burbrink. 2009. Lineage diversification in a widespread species: roles for niche divergence and conservatism in the Common Kingsnake, *Lampropeltis getula*. *Molecular Ecology* **18**(16):3443-3457.
-- **(13)** **Pyron, R. A.** 2009. *Rhadinaea flavilata*: Geographic Distribution. *Journal of Kansas Herpetology* **30**:11.
-- **(12)** **Pyron, R.A.,** and F.T. Burbrink. 2009. Can the Tropical Conservatism Hypothesis explain temperate species richness patterns? An inverse latitudinal biodiversity gradient in the New World snake tribe Lampropeltini. *Global Ecology and Biogeography* **18**(4):406-415.
-- **(11)** **Pyron, R.A.,** and F.T. Burbrink. 2009. Neogene diversification and taxonomic stability in the snake tribe Lampropeltini (Serpentes: Colubridae). *Molecular Phylogenetics and Evolution* **52**(2):524-529.
-- **(10)** Wiens, J.J., J. Sukumaran, **R.A. Pyron**, and R.M. Brown. 2009. Evolutionary and biogeographic origins of high tropical diversity in Old World frogs (Ranidae). *Evolution* **63**(5):1217-1231.
-- **(9) Pyron, R.A.,** F.T. Burbrink, and T.J. Guiher. 2008. Claims of potential expansion throughout the U.S. by invasive python species are contradicted by ecological niche models.****PLoS ONE* **8**(3):e2931.
-- **(8)** Burbrink, F.T., and **R.A. Pyron**.***2008. The taming of the skew: estimating proper confidence intervals for divergence dates. *Systematic Biology* **57**(2):317-328.
-- **(7)** Burbrink, F.T., F. Fontanella, **R.A. Pyron**, T.J. Guiher, and C. Jimenez. 2008. Phylogeography across a continent: the evolutionary and demographic history of the North American racer (Serpentes: Colubridae: *Coluber constrictor*). *Molecular Phylogenetics and Evolution** 47**(1):274-288.
-- **(6)** **Pyron**,** R.A.** 2007. A revised distribution of *Masticophis* in Kansas. *Journal of Kansas Herpetology* **24**:16.
-- **(5)** **Pyron**,** R.A.,** and C.D. Camp. 2007. Courtship and mating behaviours of two syntopic species of skink (*Plestiodon anthracinus* and *Plestiodon fasciatus*).****Amphibia–Reptilia** 28**(2):263-268.
-- **(4)** McNearney, S.R., **R.A. Pyron**, M.R. Rochford, and G.N. Weatherman. 2005. *Dierochelys reticularia*(Chicken Turtle). Life history: reproduction. *Journal of Kansas Herpetology** 13**:9.
-- **(3)** Jensen, J.B., Camp, C.D., Austin, R.M. Jr., **Pyrson [sic], R.A.,** Giovanetto, L., Graham, S., Meadows, M., and D. Demarest. 2004. *Cryptobranchus alleganiensis alleganiensis*(Eastern Hellbender). Breeding Season. *Herpetological Review* 35(2):156.
-- **(2)** **Pyron, A.** 2004. *Rhadinaea flavilata*: Geographic Distribution. *Journal of Kansas Herpetology** 9**:7.
-- **(1)** Camp, C.D., and **R.A. Pyron**. 2003. *Rana sylvatica*: Geographic Distribution. *Herpetological Review* **34**(4):382.
+(172) Colston, T.J., Rosado-Ramos, E.L., Pirro, S., Pyron, R.A., and A.R. Puente-Rolón. 2026. The Complete Genome Sequences of 5 Species of Reptiles Invasive in Puerto Rico. Biodiversity Genomes, April 2026:1–3. https://doi.org/10.56179/001c.161013.
+
+(171) Huie, J.M., Pyron, R.A., and S.M. Kawano. 2026. Habitat and complex life cycles promote morphological diversity in salamander limb bones. Journal of Anatomy in press: https://doi.org/10.1111/joa.70115. preprint: https://doi.org/10.1101/2025.10.20.683565
+
+(170) Kawano, S.M., and R.A. Pyron. 2026. Desmognathus marmoratus: Reproduction and Morphology. Herpetological Review 57: in press.
+
+(169) Pyron, R.A., Moura, M.R., Bowie. R.C.K., Brito, S.F., Ceron, K., Colston, T.J., Esselstyn, J.A., Guedes, J.J.M., Guralnick, R.P., Lima, H.V.G., Mooers, A.Ø., Moroti, M.T., Paiva, M.F., Pennell, M., Pirani, R.M., Souza, J.A.S., Tonini, J.F.R., Upham, N.S., Xavier, J., and W. Jetz. 2026. Anthropocene imperilment of ancient diversity and evolutionary potential in terrestrial vertebrates. preprint: https://doi.org/10.21203/rs.3.rs-7556378/v1
+
+(168) Hoffman, J., Burbrink, F.T., Pyron, R.A., and C.J. Raxworthy. 2026. Telomere-to-telomere reference genome of the common five-lined skink, Plestiodon fasciatus (Squamata: Scincidae). G3: Genes, Genomes, Genetics 16(3):jkaf302. preprint: https://www.biorxiv.org/content/10.1101/2025.07.03.663019v1
+
+(167) Camp, C.D., Hart, R., Godwin, R.L., and R.A. Pyron. 2026. A phylogeny-based analysis of "ecological types" of salamander larvae (Amphibia: Caudata). Biological Journal of the Linnaean Society 147(2):blag009.
+
+(166) Pyron, R.A., Zhang, L., Smith, B.T., DeBaun, D., and F.T. Burbrink. 2026. The Species Problem Evolving in the Anthropocene. Nature Reviews Biodiversity 2(1):40-55.
+
+(165) Pyron, R.A., and D.A. Beamer. 2025. Northern shovel-nosed Salamander, Desmognathus marmoratus. pp. 105–108 in Amphibians and Reptiles of West Virginia (T.K. Pauley, C.D. Camp, M.B. Watson, N.E. Karraker, and Z.J. Loughman, eds.). Quarrier Press, Charleston, West Virginia. 355 p.
+
+(164) Camp, C.D., Brock, T.L., Pyron, R.A., and M.A. Seldes. 2025. Who’s who in Black-bellied Salamander life history: sorting out life-history traits among cryptic species of the erstwhile Desmognathus quadramaculatus. Herpetological Review 56(1):1-6.
+
+(163) Pyron, R.A. 2025. Peer Review Report For: The genome sequence of the great crested newt, Triturus cristatus (Laurenti, 1768) [version 1; peer review: 1 approved]. Wellcome Open Research 2025, 10:270. https://doi.org/10.21956/wellcomeopenres.26754.r124338
+
+(162) Myers, E.A., Stewart, A.A., O’Brien, A.E., Smith, J.J., and R.A. Pyron. 2025. The first complete assembly for a lungless urodelan with a "miniaturized" genome, the Northern Dusky Salamander (Plethodontidae: Desmognathus fuscus). G3: Genes, Genomes, Genetics 15(9):jkaf157. preprint: https://doi.org/10.1101/2024.04.30.591895
+
+(161) Kurtz, P., Domingo, J.S., Pyron, R.A., and D. Wendell. 2025. Nested PCR amplification of the mitochondrial hypervariable region for non-invasive eDNA detection of the Eastern hellbender. PLoS ONE 20(7):e0328633.
+
+(160) Pyron, R.A., Beachy, C.K., Beamer, D.A., and K.H. Kozak. 2025. Caudata – Salamanders. pp. 10–21 in K.E. Nicholson (ed.), Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico, With Comments Regarding Confidence In Our Understanding – 9th Edition. SSAR Herpetological Circular, 87pp.
+
+(159) Somaweera, R., Pirro, S., and R.A. Pyron. 2025. The complete genome sequences of 26 species of Sri Lankan Snakes. Biodiversity Genomes April 2025:1-3. https://doi.org/10.56179/001c.133783.
+
+(158) Colston, T.J., Pirro, S., and R.A. Pyron. 2025. The complete genome sequences of 64 species of amphibians. Biodiversity Genomes March 2025:1-4. https://doi.org/10.56179/001c.133559.
+
+(157) Wilenzik, I.V., and R.A. Pyron. 2025. European origins of Squamata supported by biogeographic analysis of fossil-tip-dated phylogenies using paleocontinental plate-tectonic models. Comptes Rendus Palevol. 24(9):139-158.
+
+(156) Colston, T.J., Pirro, S., and R.A. Pyron. 2025. The complete genome sequences of 101 species of reptiles. Biodiversity Genomes February 2025:1-5. https://doi.org/10.56179/001c.129597.
+
+(155) Pyron, R.A., O’Connell, K.A., Myers, E.A., Beamer, D.A., and H. Baños. 2025. Complex Hybridization in a Clade of Polytypic Salamanders (Plethodontidae: Desmognathus) Uncovered by Estimating Higher-Level Phylogenetic Networks. Systematic Biology 74(1):124-140. preprint: https://doi.org/10.1101/2024.01.29.577868
+
+(154) Jowers, M.J., Muñoz Pajares, J., Weber, J., Arcke, J., Arenas-Castro, S., Ho, S.Y.W., Rivas, G.A., Murphy, J.C., Borzée, A., Pyron, R.A., Perez-Losada, M., De Freitas, M., Downie, R.J., Moreno-Rueda, G., and S. Sánchez-Ramírez. 2024. Testing molecular date estimates using an ecological and vicariant case study in treefrogs: The Geological‐Ecological Molecular Calibration. Journal of Biogeography 51(11):2136-2151.
+
+(153) Burbrink, F.T., Myers, E.A., and R.A. Pyron. 2024. Understanding species limits through the formation of phylogeographic lineages. Ecology and Evolution 14(10):e70263.
+
+(152) Kawano, S.M., Martin, J., Medina, J., Doherty, C., Zheng, G., Hsiao, E., Evans, M.J., Huie, J.M., Lima, R., Langan, E.M., de Queiroz, K., Pyron, R.A., Peters, A., and D.J. Irschick. 2024. Applying 3D models of giant salamanders to explore form-function relationships in early tetrapods. Integrative and Comparative Biology 64(3):715-728.
+
+(151) Pyron, R.A., Mooers, A.Ø., and N.Y.-S. Lo. 2024. Nature’s value and biodiversity ethics in a changing world: insights from a special issue and questions for the future. Biological Conservation 298:110757.
+
+(150) Moura, M.R., Ceron, K., Guedes, J.J.M., Sica, Y.V., Catenazzi, A., Werneck, F.P., Toledo, L.F., Hart, J., Upham, N.S., Tonini, J.F.R., Colston, T.J., Bowie, R.C.K., Pyron, R.A., and W. Jetz. 2024. A phylogeny-informed characterization of global tetrapod traits addresses data gaps and biases. PLoS Biology 22(7):e3002658. preprint https://doi.org/10.1101/2023.03.04.531098
+
+(149) Bauer, A.M., Denzer, W., Dubois, A., Entiauspe-Neto, O.M., Frétey, T., Ohler, A., and R.A. Pyron. 2024. The specimens of green anaconda, Boa murina Linnaeus, 1758 (Squamata, Serpentes, Boidae, Eunectes), from the collection of Albertus Seba, and recommendations for tracing historical specimens. Bionomina 38:7-29.
+
+(148) Wilenzik, I.V., Barger, B.B., and R.A. Pyron. 2024. Biogeographic analysis suggests Gondwanan origin of extant Squamata during the early Jurassic breakup of Pangaea. PeerJ 12:e17277.
+
+(147) Pyron, R.A., Pirro, S., Hains, T., Colston, T.J., Myers, E.A., O’Connell, K.A., and D.A. Beamer. 2024. The Draft Genome Sequences of 50 Salamander Species (Caudata, Amphibia). Biodiversity Genomes, April:1-3. https://doi.org/10.56179/001c.116891
+
+(146) Dubois, A., Denzer, W., Entiauspe-Neto, O., Frétey, T., Ohler, A., Bauer, A.M., and R.A. Pyron. 2024. Nomenclatural problems raised by the recent description of a new anaconda species (Squamata, Serpentes, Boidae), with a nomenclatural review of the genus Eunectes. Bionomina 37:8-58.
+
+(145) Title, P.O., Singhal, S., Grundler, M.C., Costa, G.C., Pyron, R.A., Colston, T.J., Grundler, M.R., Prates, I., Stepanova, N., Jones, M.E.H., Cavalcanti, L.B.Q., Colli, G.R., Di-Poï, N., Donnellan, S.C., Moritz, C., Mesquita, D.O., Pianka, E.R., Smith, S.A., Vitt, L.J., and D.L. Rabosky. 2024. The macroevolutionary singularity of snakes. Science 383(6685):918-923.
+
+(144) Arteaga, A., Pyron, R.A., Hurtado-Gómez, J.P., Batista, A., Vieira, J., Meneses Pelayo, E., Smith, E.N., Barrio Amorós, C.L., Koch, C., Agne, S., Valencia, J.H., and J.M. Guayasamin. 2024. Systematic revision of the Eyelash Palm-Pitviper (Bothriechis schlegelii), with the description of five new species and revalidation of three. Evolutionary Systematics 8(1):15-64.
+
+(143) Pyron, R.A., Kakkera, A., Beamer, D.A., and K.A. O’Connell. 2024. Discerning structure versus speciation in phylogeographic analysis of Seepage Salamanders (Desmognathus aeneus) using demography, environment, geography, and phenotype. Molecular Ecology 33(2):e17219.
+
+(142) LaFrance, B.J., Ray, A.M., Fisher, RN., Campbell Grant, E.H., Shaffer, C., Spear, S.F., Pierson, T.W., Davenport, J.M., Niemiller, M.L., Glorioso, B.M., Pyron, R.A., Beamer, D.A., Barichivich, W.J., Halstead, B.J., Roberts, K., and B.R. Hossack. 2024. A database of amphibian species present in U.S. National Parks. Nature Scientific Data 11:32.
+
+(141) Dalman, S.G., Loewen, M.A., Pyron, R.A., Jasinski, S.E., Malinzak, D.E., Lucas, S.G., Fiorillo, A.R., Currie, P.J., and N.R. Longrich. 2023. A giant tyrannosaur from the Campanian-Maastrichtian of southern North America and the evolution of tyrannosaurid gigantism. Nature Scientific Reports 13:22124.
+
+(140) Pyron, R.A. 2023. Book Reviews: Salamanders & Newts of the World (J. Raffaëlli, 2022; Penclen). Herpetological Review 54(4):696-697.
+
+(139) Ficarrotta, V.M., Martin, A., Counterman, B.A., and R.A. Pyron. 2023. Early origin and diverse phenotypic implementation of iridescent UV patterns for sexual signaling in pierid butterflies. Evolution 77(12):2619-2630.
+
+(138) Pyron, R.A. 2023. Unsupervised machine learning for species delimitation, integrative taxonomy, and biodiversity conservation. Molecular Phylogenetics and Evolution 189:107939.
+
+(137) Shaw, C.G., Pavloudi, C., Barela Hudgell, M.A., Crow, R.S., Saw, J.H., Pyron, R.A., and L.C. Smith. 2023. Bald sea urchin disease shifts the surface microbiome on purple sea urchins in an aquarium. Pathogens and Disease 81:ftad025.
+
+(136) Benevides de Miranda, R., Brandão, R.A., O'Connell, K.A., Colli, G.R., Tonini, J.F.R., and R.A. Pyron. 2023. Multilocus environmental adaptation and population structure in populations of the Cerrado gecko Gymnodactylus amarali (Sauria, Phyllodactylidae) from Serra da Mesa Hydroelectric Plant, Central Brazil. Frontiers in Ecology and Evolution 11:980777.
+
+(135) Pyron, R.A., and D.A. Beamer. 2023. Systematic revision of the Spotted and Northern Dusky Salamanders (Plethodontidae: Desmognathus conanti and D. fuscus), with six new species from the eastern United States. Zootaxa 5311(4):451–504.
+
+(134) Pyron, R.A., and D.A. Beamer. 2023. Desmognathus marmoratus: Geographic Distribution. Herpetological Review 54(1):67.
+
+(133) Pyron, R.A., and D.A. Beamer. 2023. A systematic revision of the Shovel-nosed Salamander (Plethodontidae: Desmognathus marmoratus), with re-description of the related D. aureatus and D. intermedius. Zootaxa 5270(2):262-280.
+
+(132) Ray, J.M., Sánchez-Martínez, P., Batista, A., Mulcahy, D.G., Sheehy, C.M. III, Smith, E.N., Pyron, R.A., and A. Arteaga. 2023. ﻿A new species of Dipsas (Serpentes, Dipsadidae) from central Panama. ZooKeys 1145:131-167.
+
+(131) Pyron, R.A., Duncan, S.C., Burbrink, F.T., O’Connell, K.A., and D.A. Beamer. 2023 Speciation hypotheses from phylogeographic delimitation yield an integrative taxonomy for Seal Salamanders (Desmognathus monticola). Systematic Biology 72(1):179-197.
+
+(130) Pyron, R.A., and D.A. Beamer. 2022. Systematics of the Ocoee Salamander (Plethodontidae: Desmognathus ocoee), with description of two new species from the southern Blue Ridge Mountains. Zootaxa 5190(2):207-240.
+
+(129) Pyron, R.A., and D.A. Beamer. 2022. Allocation of Salamandra auriculata Holbrook, 1838 with description of a new species of Desmognathus (Plethodontidae) from the Atlantic Coastal Plain. Zootaxa 5188(6):587-595.
+
+(128) Pyron, R.A., and M.W. Pennell. 2022. Macroevolutionary perspectives on Anthropocene extinction. Biological Conservation 274:109733.
+
+(127) Dubois, A., Pyron, R.A., and D.A. Beamer. 2022. The taxonomic and nomenclatural status of the nomina Salamandra fusca Green, 1818 and Salamandra quadramaculata Holbrook, 1840 (Amphibia, Urodela). Bionomina 27(1):44-57.
+
+(126) Pyron, R.A., and D.A. Beamer. 2022. Nomenclatural solutions for diagnosing ‘cryptic’ species using molecular and morphological data facilitate a taxonomic revision of the Black-bellied Salamanders (Urodela: Desmognathus ‘quadramaculatus’) from the southern Appalachian Mountains. Bionomina 27(1):1-43.
+
+(125) Burbrink, F.T., Crother, B.I., Murray, C.M., Smith, B.T., Ruane, S., Myers, E.A., and R.A. Pyron. 2022. Empirical and philosophical problems with the subspecies rank. Ecology and Evolution 12(7):e9069.
+
+(124) Pyron, R.A., Cyriac, V.P., Ganesh, S.R., Mallik, A.K., de Silva, A., Srikanthan, A.N., and K. Shanker. 2022. First report of hemipenial variation among some genera and species of Shieldtail snakes (Serpentes: Uropeltidae). Ichthyology & Herpetology 110(2):299-314.
+
+(123) Pyron, R.A., and A.Ø. Mooers. 2022. The normative postulate problem: hidden ethics in ecology, evolution, and conservation. Biological Conservation 270:109584.
+
+(122) Pyron, R.A., and D.A. Beamer. 2022. A nomenclatural and taxonomic review of the salamanders (Caudata) from Holbrook’s North American Herpetology. Zootaxa 5134(2):151-196.
+
+(121) Pyron, R.A., O’Connell, K.A., Lamb, J.Y., and D.A. Beamer. 2022. A new, narrowly endemic species of swamp-dwelling dusky salamander (Plethodontidae: Desmognathus) from the Gulf Coastal Plain of Mississippi and Alabama. Zootaxa 5133(1):53-82.
+
+(120) Pyron, R.A., Beamer, D.A., Holzheuser, C.R., Lemmon, E.M., Lemmon, A.R., Wynn, A.H., and K.A. O’Connell. 2022. Contextualizing enigmatic extinctions using genomic DNA from fluid-preserved museum specimens of Desmognathus salamanders. Conservation Genetics 23:375-386. preprint: https://doi.org/10.21203/rs.3.rs-769753/v1
+
+(119) Pyron, R.A., O’Connell, K.A., Lemmon, E.M., Lemmon, A.R., and D.A. Beamer. 2022. Candidate-species delimitation in Desmognathus salamanders reveals gene flow across lineage boundaries, confounding phylogenetic estimation and clarifying hybrid zones. Ecology and Evolution 12(2):e8574.
+
+(118) Pyron, R.A., Gotte, S., and F.T. Burbrink. 2021. Additional Comments on the Types and Nomina of Several North American Ratsnakes (Pantherophis obsoletus complex). Bionomina 25:70-75.
+
+(117) Greenberg, D.A., Pyron, R.A., Johnson, L.G.W., Upham, N.S., Jetz, W., and A.Ø. Mooers. 2021. Evolutionary legacies in contemporary Tetrapod imperilment. Ecology Letters 24(11):2464-2476.
+
+(116) Burbrink, F.T., Pyron, R.A., Gehara, M., McKelvy, A.D., and E.A. Myers. 2021. The corrected taxonomic history of the North American ratsnakes (Pantherophis obsoletus complex). Herpetological Review 52(3):537-547.
+
+(115) García-Rodríguez, A., Martínez, P.A., Oliveira, B.F., Pyron, R.A., and G.C. Costa. 2021. Amphibian speciation rates support a general role of mountains as biodiversity pumps. The American Naturalist 198(3):E68-E79.
+
+(114) Dubois, A., Ohler, A., and R.A. Pyron. 2021. New concepts and methods for phylogenetic taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of recent amphibians (Lissamphibia): corrigenda and addenda. Megataxa 06(1):73-76.
+
+(113) Simões, T.R., and R.A. Pyron. 2021. The Squamate Tree of Life. Bulletin of the Museum of Comparative Zoology 163(2):47-95.
+
+(112) Singhal, S., Colston, T.J., Grundler, M.R., Smith, S.A., Costa, G.C., Colli, G.R., Moritz, C. Pyron, R.A., and D.L. Rabosky. 2021. Congruence and conflict in the higher-level phylogenetics of squamate reptiles: an expanded phylogenomic perspective. Systematic Biology 70(3):542-557.
+
+(111) Dubois, A., Ohler, A., and R.A. Pyron. 2021. New concepts and methods for phylogenetic taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of recent amphibians (Lissamphibia). Megataxa 05(1):1-738.
+
+(110) Longrich, N.R., Pereda-Suberbiola, X., Pyron, R.A., and N.-E. Jalil. 2021. The first duckbill dinosaur (Hadrosauridae: Lambeosaurinae) from Africa and the role of oceanic dispersal in dinosaur biogeography. Cretaceous Research 120:104678.
+
+(109) Hime, P.M., Lemmon, A.R., Lemmon, E.C.M., Prendini, E., Brown, J.M., Thomson, R.C., Kratovil, J.D., Noonan, B.P., Pyron, R.A., Peloso, P.L.V., Kortyna, M.L., Keogh, J.S., Donnellan, S.C., Mueller, R.L., Raxworthy, C.J., Kunte, K., Ron, S., Das, S., Gaitonde, N., Green, D.M., Labisko, J., Che, J., and D.W. Weisrock. 2021. Phylogenomics reveals ancient gene tree discordance in the Amphibian Tree of Life. Systematic Biology 70(1):49-66.
+
+(108) Pyron, R.A., and D.A. Beamer. 2020. The herpetological legacy of Jacob Green and the nomenclature of some North American salamanders and lizards. Zootaxa 4838(2):221-247.
+
+(107) Tonini, J.F.R., Ferreira, R.B., and R.A. Pyron. 2020. Specialized breeding in plants affects diversification trajectories in Neotropical frogs. Evolution 74(8):1815-1825.
+
+(106) Colston, T.J., Kulkarni, P., Jetz., W., and R.A. Pyron. 2020. Phylogenetic and spatial distribution of evolutionary isolation and threat in turtles and crocodilians (non-avian archosauromorphs). BMC Evolutionary Biology 20:81. preprint: https://doi.org/10.1101/607796
+
+(105) Colston, T.J., Noonan, B.P., Smith, M.L., and R.A. Pyron. 2020. Availability of recently described Ptychadena (Anura: Ptychadenidae) nomina from Ethiopia. Zootaxa 4786(2): 289-294.
+
+(104) Colston, T.J., Pyron, R.A., and A.M. Bauer. 2020. A new species of African Snake Eyed Skink (Scincidae: Panaspis) from Ethiopia. Zootaxa 4779(2): 190-200.
+
+(103) Aldridge, R.D., Siegel, D.S., Goldberg, S.R., and R.A. Pyron. 2020. Seasonal timing of spermatogenesis and mating in squamates: a reinterpretation. Copeia 108(2):231-264.
+
+(102) Tonini, J.F.R., Provete, D.B., Maciel, N., de Morais, A.R., Goutte, S., Toledo, L.F., and R.A. Pyron. 2020. Allometric escape from acoustic constraints is rare for frog calls. Ecology and Evolution 10(8):3686-3695.
+
+(101) Burbrink, F.T., Grazziotin, F.G., Pyron, R.A., Cundall, D., Donellan, S., Irish, F., Keogh, J.S., Kraus, F., Murphy, R.W., Noonan, B.P., Ruane, S., Raxworthy, C.J., Lemmon, A.R., Lemmon, E.M., and H. Zaher. 2020. Interrogating genomic-scale data for Squamata (lizards, snakes, and amphisbaenians) shows no support for key traditional morphological relationships. Systematic Biology 69(3):502-520.
+
+(100) Rajabizadeh, M., Pyron, R.A., Nazarov, R., Poyarkov, N.A., Adriaens, D., and A. Herrel. 2020. Additions to the phylogeny of colubrine snakes in Southwestern Asia, with description of a new genus and species (Serpentes: Colubridae: Colubrinae). PeerJ 8:e9016.
+
+(99) Pyron, R.A., Lemmon, E.M., Lemmon, A.R., and D.A. Beamer. 2020. Phylogenomic data reveal reticulation and incongruence among mitochondrial candidate species in Dusky Salamanders (Desmognathus). Molecular Phylogenetics and Evolution 146:106751.
+
+(98) Pyron, R.A., R.N. Reed, Colston, T.J., and M.R. Rochford. 2019. Morphology and molecular data reveal invasion of Cryptic Golden Tegus (Tupinambis cryptus Murphy et al., 2016) in Florida. BioInvasions Records 8(2):465-470.
+
+(97) Hernández-Ordóñez, O., Santos, B., Pyron, R.A., Arroyo-Rodríguez, V., Urbina-Cardona, J., Martínez-Ramos, M., Parra-Olea, G., and V.H. Reynoso. 2019. Species sorting and mass effect along forest succession: Evidence from taxonomic, functional, and phylogenetic diversity of amphibian communities. Ecology and Evolution 9(9):5206-5218.
+
+(96) González-del-Pliego, P., Freckleton, R.P., Edwards, D.P., Koo, M.S., Scheffers, B.R., Pyron, R.A., and W. Jetz. 2019. Phylogenetic and trait-based prediction of threat status for data-deficient amphibians. Current Biology 29:1557-1563.
+
+(95) Vijayakumar, S.P., Pyron, R.A., Dinesh, K.P., Torsekar, V.R., Srikanthan, A.N., Swamy, P., Stanley, E.L., Blackburn, D.C., and K. Shanker. 2019. A new ancient lineage of frog (Anura: Nyctibatrachidae: Astrobatrachinae subfam. nov.) endemic to the Western Ghats of Peninsular India. PeerJ 7:e6457.
+
+(94) Pyron, R.A., and R. Somaweera. 2019. Further notes on the Sri Lankan uropeltid snakes Rhinophis saffragamus (Kelaart, 1853) and Uropeltis ruhunae Deraniyagala, 1954. Zootaxa 4560(3):592–600.
+
+(93) Sayyed, A., Pyron, R.A., and R. Dileepkumar. 2018. Four new species of the genus Cnemaspis Strauch, 1887 (Sauria: Gekkonidae) from the northern Western Ghats, India. Amphibian & Reptile Conservation 12(2) [General Section]:1-29(e157).
+
+(92) Arteaga, A., Salazar-Venezuela, D., Mebert, K., Peñafiel, N., Aguiar, G., Sánchez-Nivicela, J.C., Pyron, R.A., Colston, T.J., Cisneros-Heredia, D.F., Yánez-Muñoz, M.H., Venegas, P.J., Guayasamin, J.M., and O. Torres-Carvajal. 2018. Systematics of snail eating snakes (Serpentes, Dipsadini), with the description of five new species from Ecuador and Peru. ZooKeys 76:79-147.
+
+(91) Pyron, R.A. 2018. A 21st-century vision for neotropical snake systematics. Revista Latinoamericana Herpetologia 1(1):57-62.
+
+(90) Pyron, R.A. 2018. Global amphibian declines have winners and losers. Proceedings of the National Academy of Sciences USA 115(15):3739-3741.
+
+(89) Jetz, W., and R.A. Pyron. 2018. The interplay of past diversification and evolutionary isolation with present imperilment across the amphibian tree of life. Nature Ecology & Evolution 2(2018): 850-858.
+
+(88) Guedes, T.B., Sawaya, R.J., Zizka, A., Laffan, S., Faurby, S., Pyron, R.A., Bérnils, R.S., Jansen, M., Passos, P., Prudente, A.L.C., Cisneros-Heredia, D.F., Braz, H.B., Nogueira, C. de C., and A. Antonelli. 2018. Patterns, biases, and prospects in the distribution and diversity of Neotropical snakes. Global Ecology and Biogeography 27(1):14-21.
+
+(87) Wickramasinghe, L.J.M., Vidanapathirana, D.R., Kandambi, H.K.D., Pyron, R.A., and N. Wickramasinghe. 2017. A new species of Aspidura (Serpentes: Natricinae) from Sri Pada sanctuary (Peak Wilderness), Sri Lanka. Zootaxa 4347(2):275-292.
+
+(86) Tucker, D.B., Hedges, S.B., Colli, G.R., Pyron, R.A., and J.W. Sites, Jr. 2017. Genomic timetree and historical biogeography of Caribbean island Ameiva lizards (Pholidoscelis: Teiidae). Ecology and Evolution 2017(7):7080-7090.
+
+(85) Guayasamin, J.M., Hutter, C.R., Tapia, E.E., Culebras, J., Peñafiel, N., Pyron, R.A., Morochz, C., Funk, W.C., and A.F. Arteaga-Navarro. 2017. Diversification of the rainfrog Pristimantis ornatissimus in the lowlands and Andean foothills of Ecuador. PLoS One 12(3:e0172615):1–21.
+
+(84) Chen, X., Lemmon, A.R., Lemmon, E.M., Pyron, R.A., and F.T. Burbrink. 2017. Using phylogenomics to understand the link between biogeographic origins and regional diversification in ratsnakes. Molecular Phylogenetics and Evolution 111(2017):206-218.
+
+(83) Pyron, R.A., and M. Laurin. 2017. Editorial: Dating the Tree of Life. Frontiers in Evolutionary and Population Genetics 5:42.
+
+(82) Pyron, R.A. 2017. Comment (Case 3688) — On the proposed suppression of Charinidae Gray, 1849 (Reptilia, Squamata, Serpentes): a counter-application. Bulletin of Zoological Nomenclature 73(2–4):124-126.
+
+(81) Pyron, R.A. 2017. Novel approaches for phylogenetic inference from morphological data and total-evidence dating in squamate reptiles (lizards, snakes, and amphisbaenians). Systematic Biology 66(1):38-86.
+
+(80) Sayyed, A., Pyron, R.A., and N. Dahanukar. 2016. Cnemaspis flaviventralis, a new species of day gecko (Squamata: Gekkonidae) from the Western Ghats of Maharashtra, India. Journal of Threatened Taxa 8(14):9616-9629.
+
+(79) Pyron, R.A., Ganesh, S.R., Sharma, V., Sayyed, A., Wallach, V., and R. Somaweera. 2016. A catalogue and systematic overview of the shield-tailed snakes (Serpentes: Uropeltidae). Zoosystema 38(4):453-506.
+
+(78) Tonini, J.F.R., Beard, K.H., Barbosa, R.F., Jetz, W., and R.A. Pyron. 2016. Fully-sampled phylogenies of squamates reveal evolutionary patterns in threat status. Biological Conservation 204(A):23-31.
+
+(77) Ceriaco, L.M.P., Gutierrez, E.E., Dubois, A., & 490 additional authors listed in alphabetical order, including Pyron, R.A. 2016. Photography-based taxonomy is inadequate, unnecessary, and potentially harmful for biological sciences. Zootaxa 4196(3):435-445
+
+(76) Pyron, R.A., Arteaga, A., Echevarria, L.Y., and O. Torres-Carvajal. 2016. A revision and key for the tribe Diaphorolepidini (Serpentes: Dipsadidae) and checklist for the genus Synophis. Zootaxa 4171(2):293-320.
+
+(75) Murphy, J.C., Jowers, M.J., Lehtinen, R.M., Charles, S., Colli, G.R., Peres Jr., A., Hendry, C.R., and R.A. Pyron. 2016. Cryptic, sympatric diversity in tegu lizards of the Tupinambis teguixin group (Squamata, Sauria, Teiidae) and the description of three new species. PLoS ONE 11(8):e0158542.
+
+(74) Tucker, D.B., Colli, G.R., Giugliano, L.G., Hedges, S.B., Hendry, C.R., Lemmon, E.M., Lemmon, A.R., Sites, J.W. Jr., and R.A. Pyron. 2016. Methodological congruence in phylogenomic analyses with morphological support for teiid lizards (Sauria: Teiidae). Molecular Phylogenetics and Evolution 103 (2016):75-84.
+
+(73) Pyron, R.A., Hsieh, F.W., Lemmon, A.R., Lemmon, E.M., and C.R. Hendry. 2016. Integrating phylogenomic and morphological data to assess candidate species-delimitation models in Brown and Red-bellied snakes (Storeria). Zoological Journal of the Linnaean Society 177(4):937-949.
+
+(72) Pyron, R.A. 2016. Niche Evolution. In Oxford Bibliographies in Evolutionary Biology (J. B. Losos, ed.). Oxford University Press, Oxford, UK. DOI:10.1093/OBO/9780199941728-0075.
+
+(71) Arteaga, A.F., Pyron, R.A., Peñafiel, N., Culebras, J., Bustamante, L., Yánez-Muñoz, M.H., and J.M. Guayasamin. 2016. Comparative phylogeography reveals cryptic diversity and repeated patterns of cladogenesis for amphibians and reptiles in northwestern Ecuador. PLoS ONE 11(4):e0151746.
+
+(70) Feldman, A., Pyron, R.A., Sabath, N., Mayrose, I., and S. Meiri. 2016. Body sizes and diversification rates of lizards, snakes, amphisbaenians and the tuatara. Global Ecology and Biogeography 25(2):187-197.
+
+(69) Burbrink, F.T., Pyron, R.A., McKelvy, A.D., and E.A. Myers. 2015. Predicting community structure in snakes on Eastern Nearctic islands using ecological neutral theory and phylogenetic methods. Proceedings of the Royal Society B, Biological Sciences 282(1819):20151700.
+
+(68) Pyron, R.A., Guayasamin, J.M., Peñafiel, N., Bustamante, L., and A. Arteaga. 2015. Systematics of Nothopsini (Serpentes: Dipsadidae), with a new species of Synophis from the Pacific Andean slopes of southwestern Ecuador. Zookeys 541: 109-147.
+
+(67) Pyron, R.A., Costa, G.C., Patten, M.A., and F.T. Burbrink. 2015. Phylogenetic niche conservatism and the evolutionary basis of ecological speciation. Biological Reviews 90(4):1248-1262.
+
+(66) Guayasamin, J.M., Rivera-Correa, M., Arteaga, A., Culebras, J., Bustamante, L., Pyron, R.A., Peñafiel, N., Morochz, C., and C.R. Hutter. 2015. Molecular phylogeny of stream treefrogs (Hylidae: Hyloscirtus bogotensis Group), with a new species from the Andes of Ecuador. Neotropical Biodiversity 1(1):2-21.
+
+(65) Pyron, R.A. 2015. Advancing perspectives on parity-mode evolution. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 324(6):562-563.
+
+(64) Pyron, R.A., and F.T. Burbrink. 2015. Contrasting models of parity-mode evolution in squamate reptiles. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution 324(6):467-472.
+
+(63) Pyron, R.A. 2015. Post-molecular systematics and the future of phylogenetics. Trends in Ecology and Evolution 30(7):384-389.
+
+(62) Fry, B.G, Sunagar, K., Casewell, N., Kochva, E., Scheib, H., Wuster, W., Vidal, N., Young, B., Burbrink, F.T., Pyron, R.A., Vonk, F.J., Roelants, K., and T.N.W. Jackson. 2015. The origin and evolution of the Toxicofera reptile venom system. Chapter 1 in Venomous Reptiles And Their Toxins: Evolution, Pathophysiology And Biodiscovery (B.G. Fry, ed.). Oxford University Press, Oxford. 576p.
+
+(61) Betancur-R, R., Orti, G., and R.A. Pyron. 2015. Fossil-based comparative analyses reveal ancient marine ancestry erased by extinction in ray-finned fishes. Ecology Letters 18(5):441-450.
+
+(60) Longrich, N.R., Vinther, J., Pyron, R.A., Pisani, D., and J.A. Gauthier. 2015. Biogeography of worm lizards (Amphisbaenia) driven by end-Cretaceous mass extinction. Proceedings of the Royal Society B, Biological Sciences 282(1806):20143034.
+
+(59) Arcila, D.K., Pyron, R.A., Tyler, J.C., Orti, G., and R. Betancur-R. 2015. An evaluation of fossil tip-dating versus node-age calibrations in tetraodontiform fishes (Teleostei: Percomorphaceae). Molecular Phylogenetics and Evolution 82(A):131-145.
+
+(58) Ohler, A., Amarasinghe, A.A.T., Andreone, F., Bauer, A., Borkin, L., Channing, A., Chuankern, Y., Das, I., Deuti, K., Fretey, T., Matsui, M., Pyron, R.A., Rodel, M.O., Segniagbeto, G.H., Vasudevan, K., and A. Dubois. 2014. DICROGLOSSIDAE Dubois, 1987 (Amphibia, Anura): proposed conservation. Bulletin of Zoological Nomenclature 71(4):244-249.
+
+(57) Guo, P., Zhu, F., Liu, Q., Zhang, L., Li, J. X., Huang, Y. Y., and R.A. Pyron. 2014. A taxonomic revision of the Asian keelback snakes, genus Amphiesma (Serpentes: Colubridae: Natricinae), with description of a new species. Zootaxa 3873(4):425-440.
+
+(56) Pyron, R.A., Hendry, C.R., Chou, V.M., Lemmon, E.M., Lemmon, A.R., and F.T. Burbrink. 2014. Effectiveness of phylogenomic data and coalescent species-tree methods for resolving difficult nodes in the phylogeny of advanced snakes (Serpentes: Caenophidia). Molecular Phylogenetics and Evolution 81(1): 221-231.
+
+(55) Fenker, J., Tedeschi, L.G., Pyron, R.A., and C. Nogueira. 2014. Phylogenetic diversity, habitat loss and conservation priorities in South American pitvipers (Crotalinae: Bothrops and Bothrocophias). Diversity and Distributions 20(10):1108-1119.
+
+(54) Pyron, R.A. 2014. Temperate extinction in squamate reptiles and the roots of latitudinal diversity gradients. Global Ecology and Biogeography 23(10):1126-1134.
+
+(53) Pyron, R.A. 2014. Biogeographic analysis of amphibians reveals both ancient continental vicariance and recent oceanic dispersal. Systematic Biology 63(5):779-797.
+
+(52) Pyron, R.A., Reynolds, R.G., and F.T. Burbrink. 2014. A taxonomic revision of boas (Serpentes, Boidae). Zootaxa 3846(2):249-260.
+
+(51) Pyron, R.A., and V. Wallach. 2014. Systematics of the blindsnakes (Serpentes: Scolecophidia: Typhlopoidea) based on molecular and morphological evidence. Zootaxa 3829(1):1-81.
+
+(50) Pyron, R.A., and F.T. Burbrink. 2014. Ecological and evolutionary determinants of species richness and phylogenetic diversity for island snakes. Global Ecology and Biogeography 23(8):848-856.
+
+(49) Hendry, C.R., Guiher, T.J., and R.A. Pyron. 2014. Ecological differentiation and sexual selection drives sexual size-dimorphism in New World pitvipers (Crotalinae). Journal of Evolutionary Biology 27(4):760-771.
+
+(48) Ruane, S., Bryson, R.W. Jr., Pyron, R.A., and F.T. Burbrink. 2014. Coalescent species delimitation in Milksnakes (genus Lampropeltis) and impacts on phylogenetic comparative analyses. Systematic Biology 63(2):231-250.
+
+(47) Cooper, W.E. Jr., Pyron, R.A., and T.J. Garland Jr. 2014. Island tameness: living on islands reduces flight initiation distance. Proceedings of the Royal Society B, Biological Sciences 281(1777):20133019.
+
+(46) Pyron, R.A., and F.T. Burbrink. 2014. Early origin of viviparity and multiple reversions to oviparity in squamate reptiles. Ecology Letters 17(1):13-21.
+
+(45) Pyron, R.A., and F.T. Burbrink. 2013. Phylogenetic estimates of speciation and extinction rate for testing ecological and evolutionary hypotheses. Trends in Ecology and Evolution 28(12):729-736.
+
+(44) Pyron, R.A., and J.J. Wiens. 2013. Large-scale phylogenetic analyses reveal the causes of high tropical amphibian diversity. Proceedings of the Royal Society B, Biological Sciences 280(1770):20131622.
+
+(43) Guo, P., Liu, Q., Zhang, L., Li, C., Pyron, R.A., Jiang, K., and F.T. Burbrink. 2013. Lycodon and Dinodon: one genus or two? Evidence from molecular phylogenetics and morphological comparisons. Molecular Phylogenetics and Evolution 68(1):144-149.
+
+(42) Pyron, R.A., Burbrink, F.T., and J.J. Wiens. 2013. A phylogeny and updated classification of Squamata, including 4161 species of lizards and snakes. BMC Evolutionary Biology 13:93.
+
+(41) Abraham, R.K., Pyron, R.A., Zachariah, A., Ansil, B.R., and A. Zachariah. 2013. Two new genera and one new species of treefrog (Anura: Rhacophoridae) highlight cryptic diversity in the Western Ghats of India. Zootaxa 3640(2):177-199.
+
+(40) Garda, A.A., Wiederhecker, H.C., Gainsbury, A.M., Costa, G.C., Pyron, R.A., Vieira, G.H.C., Werneck, F.P., and G.R. Colli. 2013. Microhabitat variation explains local-scale distribution of terrestrial Amazonian lizards in Rondônia, western Brazil. Biotropica 45(2):245-252.
+
+(39) Pyron, R.A., Kandambi, H.K.D., Hendry, C.R., Pushpamal, V., Burbrink, F.T., and R. Somaweera. 2013. Genus-level molecular phylogeny of snakes reveals the origins of species richness in Sri Lanka. Molecular Phylogenetics and Evolution 66(3):969-975.
+
+(38) Chen, X., Huang, S., Guo, P., Colli, G.R., Montes de Oca, A.N., Vitt, L.J., Pyron, R.A., and F.T. Burbrink. 2013. Understanding the formation of ancient intertropical disjunct distributions using Asian and Neotropical hinged-teeth snakes (Sibynophis and Scaphiodontophis: Serpentes: Colubridae). Molecular Phylogenetics and Evolution 66(1):254-261.
+
+(37) Evans, B.J., Pyron, R.A., and J.J. Wiens. 2012. Polyploidization and sex chromosome evolution in amphibians. Ch. 18, pp. 385-410 In: Polyploidy and Genome Evolution. Soltis, D.E. and Soltis, P.S. (eds.): Springer-Verlag, Berlin.
+
+(36) Burbrink, F.T., Chen, X., Myers, E.A., Brandley, M.C., and R.A. Pyron. 2012. Evidence for determinism in species diversification and contingency in phenotypic evolution during adaptive radiation. Proceedings of the Royal Society B, Biological Sciences 279(1478):4817-4826.
+
+(35) Gomez-Mestre, I., R.A. Pyron, and J.J. Wiens. 2012. Phylogenetic analyses reveal unexpected patterns in the evolution of reproductive modes in frogs. Evolution 66(12):3687-3700.
+
+(34) Pyron, R.A. 2012. Book Reviews: Reptilian Cytogenetics and Genomics (E. Olmo, ed.). Copeia 2012(3):586-587.
+
+(33) Betancur-R., R., Orti, G., Stein, A.M., Marceniuk, A.P., and R.A. Pyron. 2012. Apparent signal of competition limiting diversification after ecological transitions from marine to freshwater habitats. Ecology Letters 15:822-830.
+
+(32) Crother, B.I., Boundy, J., Burbrink, F.T., Campbell, J.A., and R.A. Pyron. 2012. Squamata – Snakes. in B.I. Crother (ed.), Scientific and Standard English Names of Amphibians and Reptiles of North America North of Mexico, With Comments Regarding Confidence In Our Understanding – 7th Edition, pp. 52-72. SSAR Herpetological Circular 39:1-92.
+
+(31) Guo, P., Liu, Q., Xu, Y., Jiang, K., Hou, M., Ding, L., Pyron, R.A., and F.T. Burbrink. 2012. Out of Asia: natricine snakes support the Cenozoic Beringian Dispersal Hypothesis. Molecular Phylogenetics and Evolution 63(3):825-833.
+
+(30) Burbrink, F.T., and R. A. Pyron. 2012. Correction for Burbrink and Pyron (2011). Evolution 66(3):942-943.
+
+(29) Pyron, R.A., and F.T. Burbrink. 2012. Trait-dependent diversification and the impact of paleontological data on evolutionary hypothesis testing in New World ratsnakes (tribe Lampropeltini). Journal of Evolutionary Biology 25(3):497-508.
+
+(28) Burbrink, F.T., Ruane, S., and R.A. Pyron. 2012. When are adaptive radiations replicated in areas? Ecological opportunity and unexceptional diversification in West Indian dipsadine snakes (Colubridae: Alsophiini). Journal of Biogeography 39(3):465-475.
+
+(27) Pyron, R.A., and F.T. Burbrink. 2012. Extinction, ecological opportunity, and the origins of global snake diversity. Evolution 66(1):163-178.
+
+(26) Pyron, R. A., and J. J. Wiens. 2011. A large-scale phylogeny of Amphibia with over 2,800 species, and a revised classification of extant frogs, salamanders, and caecilians. Molecular Phylogenetics and Evolution 61(2):543-583.
+
+(25) Wiens, J.J., R.A. Pyron, and D.S. Moen. 2011. Phylogenetic origins of local-scale diversity patterns and the causes of Amazonian megadiversity. Ecology Letters 14(7):643-652.
+
+(24) Burbrink, F.T., and R.A. Pyron. 2011. The impact of gene-tree/species-tree discordance on diversification rate estimation. Evolution 65(7):1851-1861.
+
+(23) Pyron, R.A. 2011. Divergence time estimation using fossils as terminal taxa and the origins of Lissamphibia. Systematic Biology 60(4):466-481.
+
+(22) Ruane, S., Pyron, R.A., and F.T. Burbrink. 2011. Phylogenetic relationships of the Cretaceous frog Beelzebufo from Madagascar and the placement of fossil constraints based on temporal and phylogenetic evidence. Journal of Evolutionary Biology 24(2):274-285.
+
+(21) Pyron, R.A., Burbrink, F.T., Colli, G.R., Montes de Oca, A.N., Vitt, L.J., Kuczynski, C.A., and J.J. Wiens. 2011. The phylogeny of advanced snakes (Colubroidea), with discovery of a new subfamily and comparison of support methods for likelihood trees. Molecular Phylogenetics and Evolution 58(2):329-342.
+
+(20) Brandley, M.C., Guiher, T.J., Pyron, R.A., Winne, C.T., and F.T. Burbrink. 2010. Does dispersal across an aquatic geographic barrier obscure phylogeographic structure in the diamond-backed watersnake (Nerodia rhombifer)? Molecular Phylogenetics and Evolution 57(2):552-560.
+
+(19) Pyron, R.A., and F.T. Burbrink. 2010. Hard and soft allopatry: physically and ecologically mediated modes of geographic speciation. Journal of Biogeography 37(10):2005-2015.
+
+(18) Burbrink, F.T., and R.A. Pyron. 2010. How does ecological opportunity influence rates of speciation, extinction, and morphological diversification in New World ratsnakes (tribe Lampropeltini)? Evolution 64(4):934-943.
+
+(17) Pyron, R.A. 2010. A likelihood method for assessing molecular divergence time estimates and the placement of fossil calibrations. Systematic Biology 59(2):185-194.
+
+(16) Pyron, R.A., and F.T. Burbrink. 2009. Systematics of the Common Kingsnake (Lampropeltis getula; Serpentes: Colubridae) and the burden of heritage in taxonomy. Zootaxa 2241:22-32.
+
+(15) Pyron, R.A., and F.T. Burbrink. 2009. Body size as a primary determinant of ecomorphological diversification and the evolution of mimicry in the lampropeltinine snakes. Journal of Evolutionary Biology 22(10):2057-2067.
+
+(14) Pyron, R.A., and F.T. Burbrink. 2009. Lineage diversification in a widespread species: roles for niche divergence and conservatism in the Common Kingsnake, Lampropeltis getula. Molecular Ecology 18(16):3443-3457.
+
+(13) Pyron, R. A. 2009. Rhadinaea flavilata: Geographic Distribution. Journal of Kansas Herpetology 30:11.
+
+(12) Pyron, R.A., and F.T. Burbrink. 2009. Can the Tropical Conservatism Hypothesis explain temperate species richness patterns? An inverse latitudinal biodiversity gradient in the New World snake tribe Lampropeltini. Global Ecology and Biogeography 18(4):406-415.
+
+(11) Pyron, R.A., and F.T. Burbrink. 2009. Neogene diversification and taxonomic stability in the snake tribe Lampropeltini (Serpentes: Colubridae). Molecular Phylogenetics and Evolution 52(2):524-529.
+
+(10) Wiens, J.J., J. Sukumaran, R.A. Pyron, and R.M. Brown. 2009. Evolutionary and biogeographic origins of high tropical diversity in Old World frogs (Ranidae). Evolution 63(5):1217-1231.
+
+(9) Pyron, R.A., F.T. Burbrink, and T.J. Guiher. 2008. Claims of potential expansion throughout the U.S. by invasive python species are contradicted by ecological niche models. PLoS ONE 8(3):e2931.
+
+(8) Burbrink, F.T., and R.A. Pyron. 2008. The taming of the skew: estimating proper confidence intervals for divergence dates. Systematic Biology 57(2):317-328.
+
+(7) Burbrink, F.T., F. Fontanella, R.A. Pyron, T.J. Guiher, and C. Jimenez. 2008. Phylogeography across a continent: the evolutionary and demographic history of the North American racer (Serpentes: Colubridae: Coluber constrictor). Molecular Phylogenetics and Evolution 47(1):274-288.
+
+(6) Pyron, R.A. 2007. A revised distribution of Masticophis in Kansas. Journal of Kansas Herpetology 24:16.
+
+(5) Pyron, R.A., and C.D. Camp. 2007. Courtship and mating behaviours of two syntopic species of skink (Plestiodon anthracinus and Plestiodon fasciatus). Amphibia–Reptilia 28(2):263-268.
+
+(4) McNearney, S.R., R.A. Pyron, M.R. Rochford, and G.N. Weatherman. 2005. Dierochelys reticularia (Chicken Turtle). Life history: reproduction. Journal of Kansas Herpetology 13:9.
+
+(3) Jensen, J.B., Camp, C.D., Austin, R.M. Jr., Pyrson [sic], R.A., Giovanetto, L., Graham, S., Meadows, M., and D. Demarest. 2004. Cryptobranchus alleganiensis alleganiensis (Eastern Hellbender). Breeding Season. Herpetological Review 35(2):156.
+
+(2) Pyron, A. 2004. Rhadinaea flavilata: Geographic Distribution. Journal of Kansas Herpetology 9:7.
+
+(1) Camp, C.D., and R.A. Pyron. 2003. Rana sylvatica: Geographic Distribution. Herpetological Review 34(4):382.
