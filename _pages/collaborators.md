@@ -4,7 +4,7 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-<img src="/images/squarespace/cat.jpg" alt="Field cat" style="width:100%;max-height:220px;object-fit:cover;object-position:center;display:block;margin-bottom:1.5rem;">
+<img src="/images/squarespace/cat.jpg" alt="Field cat" style="width:75%;max-width:760px;height:auto;display:block;margin:0 auto 1.5rem;">
 
 ## [The Kawano Lab - Fins & Limbs at GW](https://sandykawano.weebly.com)
 
