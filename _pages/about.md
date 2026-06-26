@@ -1,12 +1,19 @@
 ---
+title: "The Pyron Lab"
 permalink: /
-title: "Alex Pyron"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
-This site is being rebuilt with Academic Pages and GitHub Pages.
+![The Pyron Lab](/images/squarespace/IMG_8106.png)
 
-Content from the previous Squarespace site will be migrated here.
+We are a group of evolutionary biologists focusing on the systematics and biogeography of amphibians and reptiles.
+
+[rpyron@colubroid.org](mailto:rpyron@colubroid.org)
+
+## Research Areas
+
+- **Phylogeography and Speciation:** Dusky Salamanders (*Desmognathus*)
+- **Biogeography and Systematics:** Amphibians and Squamates
+- **Biodiversity Conservation:** Environmental Ethics and Moral Philosophy
+
+We welcome prospective graduate students. Master’s and PhD students can join the [Weintraub Program](https://biology.columbian.gwu.edu/graduate) at GW and be part of an active community of systematists in the DC area.

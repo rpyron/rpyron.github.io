@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Raw Squarespace scrape used for migration
+gar-alligator-txxy.squarespace.com/
