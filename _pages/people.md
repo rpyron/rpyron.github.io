@@ -12,10 +12,6 @@ author_profile: true
 
 Alex is the Robert F. Griggs Professor of Biology at GW, and a Research Associate in the Division of Amphibians & Reptiles at the NMNH. He studies diversification from speciation to global biodiversity, and the moral philosophy of conservation ethics. [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=0iqnFv0AAAAJ)
 
-### Ian Wilenzik, PhD student
-
-Ian is a paleontologist studying historical biogeography in squamate reptiles. His dissertation focuses on the Pangeaen origins and subsequent Gondwanan and Laurasian radiations, and turnover in paleo-communities.
-
 ### Max Seldes, PhD student
 
 Max is a salamander systematics studying phylogeography and speciation genomics in plethodontid salamanders. His dissertation focuses on lineage divergence in *Desmognathus* and the *Plethodon glutinosus* complex, with a museum-based taxonomic component focused on natural-history collections.
@@ -50,6 +46,8 @@ Catriona R. Hendry (2011-2019)
 
 João F. R. Tonini (PhD, 2017) - now a postdoc at the [University of Richmond](https://scholar.google.com/citations?hl=en&user=LKf6nYYAAAAJ)
 
+Ian Wilenzik (PhD, 2025) - now a Visiting Assistant Professor at GW
+
 Sarah E. Green (2013-2015)
 
 Sarah K. Rhodig (2016-2017)
@@ -68,10 +66,12 @@ Taylor Hains (2017-2018)
 
 ### GW Undergrads
 
-Ariel M. Stein (2011-2013), Sheri Reid (2011-2012), Amanda C. Horne (2012-2013), Vincent Chou (2012-2014), Felisa W. Hsieh (2012-2015), Mehak Chawla (2014), Arcadia Trvalik (2014), Alexis Elliott (2015-2017), Alexa Lowe (2016-2018), Shreyansh Budhia (2018-2019), Rachel Ornstein (2019), Benjamin Barger (2019-2020), Tyler Cholankeril (2020), Christian Pecoraro (2021), Chloe Shaw (2021-2022)
+Ariel M. Stein (2011-2013), Sheri Reid (2011-2012), Amanda C. Horne (2012-2013), Vincent Chou (2012-2014), Felisa W. Hsieh (2012-2015), Mehak Chawla (2014), Arcadia Trvalik (2014), Alexis Elliott (2015-2017), Alexa Lowe (2016-2018), Shreyansh Budhia (2018-2019), Rachel Ornstein (2019), Benjamin Barger (2019-2020), Tyler Cholankeril (2020), Christian Pecoraro (2021), Chloe Shaw (2021-2022), [Marlee York](https://ogle-lab.nau.edu/index.php/people-2/) - now at Arizona State, the Ogle Lab
 
 ### K-12
 
 [Pallavi Kulkarni](https://www.linkedin.com/in/kulkarni-pallavi) (Herndon High School, 2018) - now at UVA
 
 [Sophie C. Duncan](https://www-washingtonpost-com.proxygw.wrlc.org/sports/2022/01/25/preps-notebook-sophie-duncan-an-olympic-qualifier-nears-end-decorated-holton-arms-career/) (Holton-Arms School, 2021) - now at Stanford
+
+[Anvith Kakkera](https://scholar.google.com/citations?user=0jw54V4AAAAJ&hl=en) (TJHSST) - now at Dartmouth
