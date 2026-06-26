@@ -4,7 +4,7 @@ permalink: /people/
 author_profile: true
 ---
 
-![The Team](/images/squarespace/IMG_3260.jpg)
+<img src="/images/squarespace/diana.jpg" alt="Pyron Lab field scene" style="width:100%;max-height:220px;object-fit:cover;object-position:center;display:block;margin-bottom:1.5rem;">
 
 ## Current Members
 
