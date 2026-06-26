@@ -23,7 +23,7 @@ repository               : "rpyron/rpyron.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "squarespace/IMG_8106.png"
+  avatar           : "headshot.png"
   name             : "R. Alexander Pyron"
   pronouns         : # example: "she/her"  
   bio              : "Robert F. Griggs Professor of Biology, George Washington University"
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iqnFv0AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-2524-1794"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=RA+Pyron"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
