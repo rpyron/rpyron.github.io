@@ -14,6 +14,8 @@ Alex is the Robert F. Griggs Professor of Biology at GW, and a Research Associat
 
 ### Max Seldes, PhD student
 
+<img src="/images/people/max-seldes.png" alt="Max Seldes" style="width:260px;height:auto;">
+
 Max is a salamander systematics studying phylogeography and speciation genomics in plethodontid salamanders. His dissertation focuses on lineage divergence in *Desmognathus* and the *Plethodon glutinosus* complex, with a museum-based taxonomic component focused on natural-history collections.
 
 ### Daniel Biggs, PhD student
